@@ -1,0 +1,25 @@
+{{ range .Data.Pages }}
+<div class="row">
+  <div class="post-title eight columns">
+    <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
+    <div class="post-tag">
+    {{ $Site := .Site }}
+      {{ if .Params.tags }}
+        {{ range .Params.tags }}
+        <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}tags/{{ . | urlize }}">
+            <i class="icon-tag"></i> {{ . }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  <div class="post-meta four columns">
+    {{ if not .Params.nodate }}
+    <span class="post-date listing-date">
+      <span class="post-date-month">{{ .Date.Format "January" }}</span>
+      <span class="post-date-day"> {{ .Date.Format "2" }}, </span>
+      <span class="post-date-year">{{ .Date.Format "2006" }}</span>
+    </span>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
