@@ -14,12 +14,12 @@
           <div class="post-content-meta">
 
             {{ if not .Params.nodate }}
-              <i class="icon-calendar"></i>  
+              <i class="icon-calendar"></i>
               <span class="post-date">
-                <span class="post-date-month">{{ .Date.Format "January" }}</span> 
+                <span class="post-date-month">{{ .Date.Format "January" }}</span>
                 <span class="post-date-day"> {{ .Date.Format "2" }}, </span>
                 <span class="post-date-year">{{ .Date.Format "2006" }}</span>
-              </span> 
+              </span>
             {{ end }}
 
             {{ $Site := .Site }}
@@ -45,7 +45,7 @@
       <div class="post-content">
         {{ .Content }}
       </div>
-	
+
 			{{ if .Params.socialsharing }}
 		    	{{ partial "socialsharing.html" . }}
 		    {{ end }}
@@ -54,15 +54,15 @@
 
       <div class="row paging">
 			{{ if not .Params.nopaging }}
-          {{ if .Next }}
+          {{ if .PrevInSection }}
           <div class="six columns">
-            <a class="paging-link" href="{{ .Next.RelPermalink }}"><i class="icon-left-open"></i> {{ .Next.Title  }}</a>
+            <a class="paging-link" href="{{ .PrevInSection.RelPermalink }}"><i class="icon-left-open"></i> {{ .PrevInSection.Title  }}</a>
           </div>
           {{ end }}
 
-					{{ if .Prev }}
+					{{ if .NextInSection }}
           <div class="paging-newer six columns">
-            <a class="paging-link" href="{{ .Prev.RelPermalink }}">{{ .Prev.Title }} <i class="icon-right-open"></i></a>
+            <a class="paging-link" href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }} <i class="icon-right-open"></i></a>
           </div>
           {{ end }}
 
