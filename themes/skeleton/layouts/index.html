@@ -4,8 +4,8 @@
   <div class="container">
     <div class="intro">
       <figure> <img src="/images/skydive2.jpg" alt="skydive in dubai" data-action="zoom" /> </figure>
-      <p>Hi! I'm <a href="/about">Prakhar Srivastav</a> and welcome to my little corner of the internet. 
-      I'm currently a <a href="http://www.columbia.edu/~ps2894/">graduate</a> student in Columbia University's <a href="http://www.cs.columbia.edu/">CS department</a> where I'm focusing on Distributed Systems and Machine Learning. 
+      <p>Hi! I'm <a href="/about">Prakhar Srivastav</a> and welcome to my little corner of the internet.
+      I'm currently a <a href="http://www.columbia.edu/~ps2894/">graduate</a> student in Columbia University's <a href="http://www.cs.columbia.edu/">CS department</a> where I'm focusing on Distributed Systems and Machine Learning.
     </div>
 
       <div class="row">
@@ -13,14 +13,14 @@
         <div class="six columns recent">
           <h3>Recent Posts</h3>
           <ul>
-            {{ range first 3 .Data.Pages }}
+            {{ range first 3 (where .Data.Pages "Section" "blog") }}
             <li>
               <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
               <p class="desc">{{ .Description }}</p>
             </li>
             {{ end }}
           </ul>
-          <a class="button" href="/articles">All Posts</a>
+          <a class="button" href="/blog">All Posts</a>
         </div>
 
         <div class="six columns recent">
