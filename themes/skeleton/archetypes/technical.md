@@ -1,6 +1,6 @@
 +++
 description = ""
 tags = [""]
-categories = ["Uncategorized"]
+categories = ["Technical"]
 draft = "true"
 +++
