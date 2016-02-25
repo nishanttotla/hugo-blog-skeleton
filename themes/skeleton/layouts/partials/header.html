@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
   <title>
-    {{ .Title }}{{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }} | Prakhar Srivastav
+    {{ .Title }}{{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }} | {{ .Site.Params.author }}
   </title>
 
   {{ partial "meta.html" . }}

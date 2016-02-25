@@ -1,5 +1,8 @@
 baseurl = "http://prakhar.me/"
 languageCode = "en-us"
-title = "cat /dev/random"
+title = "nRT"
 pygmentsUseClasses = true
 theme = "skeleton"
+[params]
+  description = "Nishant's Hugo Website"
+  author = "Nishant Totla"
