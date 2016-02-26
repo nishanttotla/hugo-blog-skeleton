@@ -6,3 +6,6 @@ theme = "skeleton"
 [params]
   description = "Nishant's Hugo Website"
   author = "Nishant Totla"
+  authorTwitter = "nishanttotla"
+  authorFacebook = "nishanttotla"
+  coverImage = "/images/nishant.jpg"
