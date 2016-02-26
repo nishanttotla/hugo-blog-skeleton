@@ -33,17 +33,13 @@
 
          </div>
 
-			{{ if .Params.socialsharing }}
-        {{ partial "socialsharing.html" . }}
-      {{ end }}
-
-
 			{{ if .Params.bannerinline }}
 				<img src="{{ .Params.bannerinline }}" class="pure-img content-banner-image-inline" />
 			{{ end }}
 
       <div class="post-content">
         {{ .Content }}
+        - {{ .Site.Params.authorSignature }}
       </div>
 
 			{{ if .Params.socialsharing }}

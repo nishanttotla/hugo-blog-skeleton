@@ -5,6 +5,7 @@ description = ""
 draft = "true"
 tags = ["sample", "blogging", "cool"]
 title = "Sample Post"
+socialsharing = "true"
 
 +++
 
