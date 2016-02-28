@@ -21,13 +21,13 @@ int main() {
   return 0;
 }
 ```
-You can also write long commands that automatically enables scroll
+You can also write long commands that automatically wrap around
 ```
-$ echo "super long command that takes arbitrary words as options for an executable called super to demonstrate that code blocks scroll and not wrap around"
+$ echo "super long command that takes arbitrary words as options for an executable called super to demonstrate that code blocks wrap around"
 ```
-And then this
+And then there's syntax highlighting with `< highlight language-name >` tags
 {{< highlight bash >}}
-$ echo "life is easier when you have syntax highlighting"
+$ echo "life is easier when you have syntax highlighting, but let's write a long line anyway, to see how text wrapping is dealt with"
 {{< /highlight >}}
 
 Moving on, what's a blog post without images? Here's how to add images to a post, with several features enabled. Go figure.
@@ -45,6 +45,14 @@ I love Twitter, so gotta be able to embed tweets inside posts. Hugo shortcodes w
 This is a foolproof method to embed any other content too, until I figure out a way create my own parametrized shortcodes.
 
 Footnotes[^1] are immensely useful in blog posts and I often overuse them[^2].
+
+Important things are more effective when said by famous people. Such as
+
+<div class="custom-quote">
+  <h1 class="icon-quote-left"></i></h1>
+  <p>This coffee is terrible.<span class="author"> - Albert Einstein</span>
+  </p>
+</div>
 
 Finally, it's 2016 and emoji support is essential. Just pasting works! 😸😸😸
 
