@@ -43,3 +43,8 @@ I love Twitter, so gotta be able to embed tweets inside posts. Hugo shortcodes w
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is a foolproof method to embed any other content too, until I figure out a way create my own parametrized shortcodes.
+
+Finally, footnotes[^1] are immensely useful in blog posts and I often overuse them[^2].
+
+[^1]: Like this one.
+[^2]: Mostly to add extra content, and it's always cool when you can return to content right away.
