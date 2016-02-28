@@ -44,7 +44,9 @@ I love Twitter, so gotta be able to embed tweets inside posts. Hugo shortcodes w
 
 This is a foolproof method to embed any other content too, until I figure out a way create my own parametrized shortcodes.
 
-Finally, footnotes[^1] are immensely useful in blog posts and I often overuse them[^2].
+Footnotes[^1] are immensely useful in blog posts and I often overuse them[^2].
+
+Finally, it's 2016 and emoji support is essential. Just pasting works! 😸😸😸
 
 [^1]: Like this one.
 [^2]: Mostly to add extra content, and it's always cool when you can return to content right away.
