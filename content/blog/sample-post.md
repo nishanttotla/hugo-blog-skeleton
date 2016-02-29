@@ -1,9 +1,9 @@
 +++
 categories = ["Uncategorized"]
 date = "2016-02-25T19:13:38-08:00"
-description = ""
+description = "A sample post demonstrating what's possible"
 draft = "true"
-tags = ["sample", "blogging", "cool"]
+tags = ["sample", "blogging", "cool", "react"]
 title = "Sample Post"
 socialsharing = "true"
 
