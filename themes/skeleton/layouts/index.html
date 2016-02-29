@@ -4,9 +4,9 @@
   <div class="container">
     <div class="intro">
       <figure>
-        <img src="/images/nishant.jpg" style="width:40%;" alt="nishant portrait" data-action="zoom" />
+        <img src="/images/profile_icon.png" style="width:40%;" alt="nishant portrait" data-action="zoom" />
       </figure>
-      <p>Hi! I'm <a href="/about">Nishant Totla</a>, currently a software engineer at <a href="http://www.docker.com" target="_blank">Docker, Inc.</a> where I work on the core open source team, focusing on distributed systems.
+      <p>Hi! I'm <a href="/about">Fox Mulder</a>, currently special agent at the FBI, where I work in the X-Files division. My expertise is the paranormal and government conspiracies.
       </p>
     </div>
 
@@ -26,32 +26,10 @@
 
         <div class="six columns recent">
           <h3>News</h3>
-          <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Flying to Seattle for the March 19-20 weekend. Hoping to be less of a tourist this time, and enjoy the city!</p>&mdash; Nishant Totla (@nishanttotla) <a href="https://twitter.com/nishanttotla/status/703141599207817217">February 26, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-          <a class="button button-primary" href="https://twitter.com/nishanttotla/timelines/677716044539174914" target="_blank">More News</a>
+          <p>I almost got solid proof of extra-terrestrial life yesterday, but the military came in at the last moment. I'm sure it wasn't a coincidence.</p>
+          <a class="button button-primary" href="#" target="_blank">More News</a>
         </div>
       </div>
-
-      <div class="row">
-        <div class="six columns recent">
-          <h3>Recent Technical Articles</h3>
-          <ul>
-            {{ range first 3 (where .Data.Pages "Section" "articles") }}
-            <li>
-              <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
-              <p class="desc">{{ .Description }}</p>
-            </li>
-            {{ end }}
-          </ul>
-          <a class="button" href="/articles">All Posts</a>
-        </div>
-
-        <div class="six columns recent">
-          <h3>Undecided</h3>
-          <a class="button button-primary" href="https://twitter.com/nishanttotla/timelines/677716044539174914" target="_blank">Link</a>
-        </div>
-      </div>
-
       </div>
       {{ partial "footer.html" . }}
   </div>
