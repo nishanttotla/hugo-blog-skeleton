@@ -1117,6 +1117,11 @@ a.post-tag {
     color: #5a6e79;
 }
 
+.post-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1em;
+}
+
 .footer {
   font-size: 1.2rem;
   text-align: center;
