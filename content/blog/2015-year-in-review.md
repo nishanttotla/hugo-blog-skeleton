@@ -2,8 +2,8 @@
 categories = ["Personal"]
 date = "2015-12-31T19:16:02-08:00"
 description = "A summary of the year gone by"
-draft = ""
-socialsharing = "true"
+draft = false
+socialsharing = true
 tags = ["life"]
 title = "2015 Year in Review"
 

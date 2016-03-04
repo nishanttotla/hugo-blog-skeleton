@@ -2,6 +2,6 @@
 description = ""
 tags = [""]
 categories = ["Technical"]
-draft = "true"
-socialsharing = ""
+draft = true
+socialsharing = false
 +++

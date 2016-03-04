@@ -2,6 +2,6 @@
 description = ""
 tags = [""]
 categories = ["Uncategorized"]
-draft = "true"
-socialsharing = ""
+draft = true
+socialsharing = false
 +++

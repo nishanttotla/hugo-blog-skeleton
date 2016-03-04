@@ -2,8 +2,8 @@
 categories = ["Uncategorized"]
 date = "2012-06-21T19:26:42-08:00"
 description = "Things I wish someone told me at the start of college"
-draft = ""
-socialsharing = "true"
+draft = false
+socialsharing = true
 tags = ["college", "IITB"]
 title = "Eight Lessons I Learned in College"
 
