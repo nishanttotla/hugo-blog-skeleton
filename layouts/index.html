@@ -12,9 +12,9 @@
 
       <div class="row">
         <div class="six columns recent">
-          <h3>Recent Blog Posts</h3>
+          <h3>Recent Technical Articles</h3>
           <ul>
-            {{ range first 3 (where .Data.Pages "Section" "blog") }}
+            {{ range first 3 (where .Data.Pages "Section" "articles") }}
             <li>
               <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
               <p class="desc">{{ .Description }}</p>
@@ -34,9 +34,9 @@
 
       <div class="row">
         <div class="six columns recent">
-          <h3>Recent Technical Articles</h3>
+          <h3>Recent Blog Posts</h3>
           <ul>
-            {{ range first 3 (where .Data.Pages "Section" "articles") }}
+            {{ range first 3 (where .Data.Pages "Section" "blog") }}
             <li>
               <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
               <p class="desc">{{ .Description }}</p>
@@ -47,8 +47,9 @@
         </div>
 
         <div class="six columns recent">
-          <h3>Undecided</h3>
-          <a class="button button-primary" href="https://twitter.com/nishanttotla/timelines/677716044539174914" target="_blank">Link</a>
+          <h3>Currently Reading</h3>
+          <img src="/images/zen.png" style="max-width:100%;">
+          <a class="button button-primary" href="https://www.goodreads.com/user/show/2814324-nishant-totla" target="_blank">More books</a>
         </div>
       </div>
 
