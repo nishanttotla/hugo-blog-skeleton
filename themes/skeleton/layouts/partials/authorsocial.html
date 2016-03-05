@@ -1,12 +1,17 @@
-{{ if .Params.authorTwitter }}
-  <span class="post-author-social post-author-twitter"><a href="https://twitter.com/{{ .Params.authorTwitter }}" target="_blank"><i class="fa fa-twitter"></i></a></span>
+<h1 class="social-me" align="center">
+{{ if .Site.Params.authorTwitter }}
+  <a href="https://twitter.com/{{ .Site.Params.authorTwitter }}" target="_blank"><i class="icon-twitter"></i></a>
 {{ end }}
-{{ if .Params.authorFacebook }}
-  <span class="post-author-social post-author-facebook"><a href="https://www.facebook.com/{{ .Params.authorFacebook }}" target="_blank"><i class="fa fa-facebook"></i></a></span>
+{{ if .Site.Params.authorFacebook }}
+  <a href="https://www.facebook.com/{{ .Site.Params.authorFacebook }}" target="_blank"><i class="icon-facebook-squared"></i></a>
 {{ end }}
-{{ if .Params.authorGoogleplus }}
-  <span class="post-author-social post-author-google-plus"><a href="https://plus.google.com/+{{ .Params.authorGoogleplus }}" target="_blank"><i class="fa fa-google-plus"></i></a></span>
+{{ if .Site.Params.authorGithub }}
+  <a href="https://www.github.com/{{ .Site.Params.authorGithub }}" target="_blank"><i class="icon-github-circled"></i></a>
 {{ end }}
-{{ if .Params.authorLinkedin }}
-  <span class="post-author-social post-author-linkedin"><a href="https://www.linkedin.com/in/{{ .Params.authorLinkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a></span>
+{{ if .Site.Params.authorGoogleplus }}
+  <a href="https://plus.google.com/+{{ .Site.Params.authorGoogleplus }}" target="_blank"><i class="icon-gplus"></i></a>
 {{ end }}
+{{ if .Site.Params.authorLinkedin }}
+  <a href="https://www.linkedin.com/in/{{ .Site.Params.authorLinkedin }}" target="_blank"><i class="icon-linkedin"></i></a>
+{{ end }}
+</h1>

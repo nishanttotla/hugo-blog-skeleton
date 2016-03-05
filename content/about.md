@@ -19,10 +19,10 @@ This website is about my experimentation in creating and following a system for 
 
 <p>If you’d like to connect, feel free to <a href="mailto:prakhar@prakhar.me">email</a> or stalk me elsewhere on the web
 <h1 class="social-me">
-  <a title="Github" href="http://github.com/prakhar1989"><i class="icon-github-circled"></i></a>
-  <a title="Hacker News" href="https://news.ycombinator.com/user?id=krat0sprakhar"><i class="icon-hacker-news"></i></a>
-  <a title="Twitter" href="https://twitter.com/prakharsriv9"><i class="icon-twitter"></i></a>
-  <a title="LinkedIn" href="https://www.linkedin.com/in/prakharsrivastav"><i class="icon-linkedin"></i></a>
+  <a title="Github" href="http://github.com/nishanttotla"><i class="icon-github-circled"></i></a>
+  <a title="Hacker News" href="https://www.facebook.com/nishanttotla"><i class="icon-facebook-squared"></i></a>
+  <a title="Twitter" href="https://twitter.com/nishanttotla"><i class="icon-twitter"></i></a>
+  <a title="LinkedIn" href="https://www.linkedin.com/in/nishanttotla"><i class="icon-linkedin"></i></a>
 </h1></p>
 
 ### Subscribe
