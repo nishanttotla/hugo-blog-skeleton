@@ -7,15 +7,45 @@
   "ascent": 850,
   "glyphs": [
     {
+      "uid": "72b1277834cba5b7944b0a6cac7ddb0d",
+      "css": "rss",
+      "code": 59410,
+      "src": "fontawesome"
+    },
+    {
       "uid": "531bc468eecbb8867d822f1c11f1e039",
       "css": "calendar",
       "code": 59394,
       "src": "fontawesome"
     },
     {
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "facebook-squared",
+      "code": 59405,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b8d0c7d76e87b94882329a88e8e43d3d",
+      "css": "gplus",
+      "code": 59406,
+      "src": "fontawesome"
+    },
+    {
       "uid": "237ee28b7e826b75a5b6f51ee3e2bfc1",
       "css": "hacker-news",
       "code": 59401,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 59407,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9121e3eb89863f67c8bda378eea01a93",
+      "css": "reddit",
+      "code": 59404,
       "src": "fontawesome"
     },
     {
@@ -40,6 +70,12 @@
       "uid": "z2kx6nr3u9112p0e1pfhxdhva9v7kd4k",
       "css": "tag",
       "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "1e77a2yvsq3owssduo2lcgsiven57iv5",
+      "css": "pencil",
+      "code": 59411,
       "src": "typicons"
     },
     {
@@ -76,6 +112,18 @@
       "uid": "ff16079eb4be12c49bf3014d2322acdd",
       "css": "github-circled",
       "code": 59399,
+      "src": "zocial"
+    },
+    {
+      "uid": "b49fa3e57e92b38143e0fdcc5d9a904b",
+      "css": "gmail",
+      "code": 59408,
+      "src": "zocial"
+    },
+    {
+      "uid": "6a85bc0b09a4f21d2a3ced2bdffbc770",
+      "css": "quora",
+      "code": 59409,
       "src": "zocial"
     }
   ]
