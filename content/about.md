@@ -15,4 +15,4 @@ Among other things, I enjoy playing music, reading, learning about new science a
 
 ### Connect
 
-The best way to reach me is via <a title="Email" href="mailto:nishanttotla@gmail.com"><i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla"><i class="icon-twitter"></i></a>
+The best way to reach me is via <a title="Email" href="mailto:nishanttotla@gmail.com"><i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla"><i class="icon-twitter"></i></a>. If you're a recruiter, read [this](/recruiting).
