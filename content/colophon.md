@@ -6,7 +6,7 @@ nocomment = true
 
 +++
 
-This website is written using [Sublime Text 3](https://www.sublimetext.com/) and compiled into HTML using [Hugo](http://gohugo.io) - a static site generator written in [Go](https://golang.org/). The design is based on top of the excellent work by [Prakhar Srivastav](http://www.prakhar.me) using the minimalistic CSS framework called [Skeleton](http://getskeleton.com).
+This website is written using [Sublime Text 3](https://www.sublimetext.com/) and compiled into HTML using [Hugo](http://gohugo.io) - a static site generator written in [Go](https://golang.org/). The design is based on top of the excellent work by [Prakhar Srivastav](http://prakhar.me) using the minimalistic CSS framework called [Skeleton](http://getskeleton.com).
 
 Icons on the site are courtesy of [Fontello](http://fontello.com/). Typography uses [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro) and [Raleway](https://github.com/theleagueof/raleway).
 
