@@ -4,7 +4,7 @@ title = "nRT"
 pygmentsUseClasses = true
 theme = "skeleton"
 [params]
-  description = "Nishant's Hugo Website"
+  description = "Nishant's Website"
   author = "Nishant Totla"
   authorDescription = "My name is Nishant Totla and I am an engineer. I love the outdoors and adventure. I like to talk about social justice."
   siteDescriptors = ["blog", "outdoors", "adventure", "programming", "software", "Nishant Totla", "Nishant", "Totla"]
