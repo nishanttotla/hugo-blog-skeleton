@@ -43,6 +43,7 @@ Yet another issue that I consider unique to India (as far as I’m aware) is sha
 
 <figure>
     <img data-action="zoom" src="/images/propaganda-post/msg2.png" style="width:50%;"></img>
+    <img data-action="zoom" src="/images/propaganda-post/msg2_2.png" style="width:50%; float: right;"></img>
 </figure>
 
 Click [here](https://paper.dropbox.com/doc/Translations-for-propaganda-messages-forwarded-in-India-Fk3IGFAI5WiDA2aSOH9m5#:h=Message-2) for a translation. Notice how this message makes tall claims, and signs off as the PMO (Prime Minister’s Office). It’s not hard to craft messages like these, and there are several people who believe that this is actually coming from the PMO. That can’t be right at all!
