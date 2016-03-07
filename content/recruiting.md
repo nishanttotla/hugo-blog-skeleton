@@ -7,11 +7,11 @@ title = "Dear Recruiter"
 
 +++
 
-If you're a recruiter looking to hire a software engineer for a company you work with, and are interested in my background, please read the following to get a sense of what kind of work and culture I value. If you don't think your company is a good fit, then just don't send me that email, and save both of us some time.
+If you're looking to hire a software engineer for a company you work with, and are interested in my background, please read the following to get a sense of what kind of work and culture I value. If you don't think your company is a good fit, then just don't send me that email, and save both of us some time.
 
 ### Roles
 
-While I'm primarily a software engineer, I'm not necessarily only looking for roles that primarily involve writing code. In the future, I would like to explore career paths that require other kinds of responsibilities, such as management or a mixture of other things.
+While I'm primarily a software engineer, I'm not necessarily only looking for roles that involve writing code. In the future, I would like to explore career paths that offer alternative kinds of responsibilities, such as management or a mixture of other things.
 
 ### Technology
 
