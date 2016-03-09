@@ -13,12 +13,12 @@ I started working on distributed systems in early 2016. Given that I had little 
 
 In this (dynamically updated) post, I intend to keep track of all good resources I come across in this quest. This includes not only research papers and books, but also good blogs, people to follow and discussions/meetups that could be helpful. It’s overwhelming to begin with, but everything that’s worthwhile has to start somewhere! This is obviously not a complete list, but hopefully the union of content within all entries on the list will be complete.
 
-### Research Papers
+### Blogs
 1. [The Paper Trail](http://the-paper-trail.org/) by [Henry Robinson](https://twitter.com/HenryR)
 
 ### Books
 
-### Blogs
+### Research Papers
 
 ### People
 1. [Henry Robinson](https://twitter.com/HenryR), Cloudera

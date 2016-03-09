@@ -15,7 +15,7 @@ While I'm primarily a software engineer, I'm not necessarily only looking for ro
 
 ### Technology
 
-I really can't work on a technology or area that I don't believe in. I care about solving problems that make people's lives better, or enable them to do better work. Having challenging technology in addition is great!
+I really can't work on a technology or area that I don't believe in. I care about solving problems that make people's lives better, or enable them to do better work. Having challenging technical problems to solve along the way in addition is great!
 
 I also prefer working with engineers who are interested in getting better at what they do, and in helping others do the same. Unfortunately, wanting to be an expert is your area isn't a required quality for software engineers, but I strongly prefer working with such people.
 
