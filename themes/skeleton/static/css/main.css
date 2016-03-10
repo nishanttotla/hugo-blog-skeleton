@@ -326,6 +326,12 @@ h1.social-me a {
   color: #5a6e79;
 }
 
+h1.social-sharing a {
+  font-size: 3.0rem;
+  margin-right: 0rem;
+  color: #5a6e79;
+}
+
 div.recent {
   margin-top: 2rem;
 }
