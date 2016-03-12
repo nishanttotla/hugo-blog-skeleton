@@ -976,7 +976,6 @@ figcaption {
   text-align: center;
   font-size: 1.4rem;
   font-family: "Raleway", sans-serif;
-  font-style: italic;
 }
 
 blockquote p {
@@ -1020,7 +1019,6 @@ h3 {
   color: #5a6e79;
   font-size: 1.4rem;
   letter-spacing: 0.2rem;
-  text-transform: uppercase;
   border-bottom: 1px solid #ddd;
   font-weight: 600;
 }
