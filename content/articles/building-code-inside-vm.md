@@ -20,11 +20,13 @@ The first solution I came up with involved using `rsync`, a very popular file sy
 
 ### Setting up a mounted folder on a VirtualBox VM
 
-It's relatively easy to create a VM using your Linux distribution of choice. I use Ubuntu 14.04 right now, but the setup should work in most cases. Once you've installed the VM, make sure you install `openssh-server` to be able to SSH into it from the host[^3]. The other requirement is Guest Additions, without which mounting won't work. It's straightforward to install, and [several articles](http://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm) online explain how to do it.
+It's relatively easy to create a VM using your Linux distribution of choice. I use Ubuntu 14.04 right now, but the setup should work in most cases. Once you've installed the VM, make sure you install `openssh-server` to be able to SSH into it from the host[^3].
 
 ```
 $ sudo apt-get install openssh-server
 ```
+The other requirement is Guest Additions, without which mounting won't work. It's straightforward to install, and [several articles](http://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm) online explain how to do it.
+
 Now we need to create a mounted folder. Right click on the VM and go to Settings, under Shared Folders. There, mount your folder of choice as a Machine Folder, and give it a name. I mount the `work` folder in my home directory, and call the mount `workmac` (any name is fine).
 
 <figure>
