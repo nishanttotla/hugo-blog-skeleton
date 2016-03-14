@@ -2,7 +2,7 @@
   "name": "Skeleton",
   "version": "0.0.1",
   "description": "A minimal theme for hugo",
-  "repository": "https://github.com/prakhar1989/hugo_blog",
+  "repository": "https://github.com/nishanttotla/hugo-blog-skeleton",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,9 @@
     "theme",
     "hugo"
   ],
-  "author": "Prakhar Srivastav",
-  "license": "MIT",
+  "author": "Nishant Totla"
+  "creator": "Prakhar Srivastav",
+  "license": "Apache 2.0",
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-concat": "^2.4.3",

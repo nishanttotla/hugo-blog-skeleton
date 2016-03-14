@@ -1,4 +1,10 @@
-Copyright 2015 Prakhar Srivastav
+The following files and directories, including their contents are copyright Nishant Totla, or their respective copyright holders:
+layouts/partials/analytics.html
+static/fonts
+static/favicons
+static/fontello
+
+For everything else, the following applies:
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

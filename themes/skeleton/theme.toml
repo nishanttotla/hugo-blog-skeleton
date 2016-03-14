@@ -6,5 +6,8 @@ source_repo = ""
 tags = ["skeleton", "raleway", "blog", "gallery"]
 features = ["blog"]
 [author]
+    name = "Nishant Totla"
+    homepage = "http://nishanttotla.com"
+[creator]
     name = "Prakhar Srivastav"
     homepage = "http://prakhar.me"
