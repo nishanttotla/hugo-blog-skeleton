@@ -43,7 +43,7 @@ Finally, mount the folder
 ```
 $ sudo mount -t vboxsf -o uid=$UID,gid=$(id -g) workmac work-vm
 ```
-Change the mount and directory names as appropriate for you. And that's it! Now you should be able to access a mirror of the host folder inside the VM without any of the messy `rsync` scripts. Note that if you reboot the VM, you'll have to run the mount command again -- a requirement you can surpass by adding the line to you `.bashrc` file.
+Change the mount and directory names as appropriate for you. And that's it! Now you should be able to access a mirror of the host folder inside the VM without any of the messy `rsync` scripts. Note that if you reboot the VM, you'll have to run the mount command again -- a requirement you can surpass by adding the line to your `.bashrc` file.
 
 ### Advantages of this setup
 It's an extremely simple setup that has worked for me (and others I helped) each time. While for me, the reasons to do this centered around personal preference, I feel there are at least two good reasons to do it anyway
