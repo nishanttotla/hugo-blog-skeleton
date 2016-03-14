@@ -1,4 +1,4 @@
-baseurl = "http://www.nishanttotla.com/"
+baseurl = "http://nishanttotla.com/"
 languageCode = "en-us"
 title = "nRT"
 pygmentsUseClasses = true
