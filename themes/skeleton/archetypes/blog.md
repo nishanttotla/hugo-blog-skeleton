@@ -1,7 +1,8 @@
 +++
 description = ""
-tags = [""]
+tags = []
 categories = ["Uncategorized"]
 draft = true
-socialsharing = false
+socialsharing = true
+authors = []
 +++

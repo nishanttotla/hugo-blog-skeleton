@@ -6,6 +6,7 @@ draft = false
 socialsharing = true
 tags = ["distributed systems"]
 title = "Distributed Systems Resources"
+authors = ["nRT"]
 
 +++
 

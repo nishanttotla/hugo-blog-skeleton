@@ -39,12 +39,18 @@
 
       <div class="post-content">
         {{ .Content }}
-        - {{ .Site.Params.authorSignature }}
+        {{ if .Params.authors }}
+            - {{ delimit .Params.authors ", " }}
+        {{ else }}
+            - {{ .Site.Params.authorSignature }}
+        {{ end }}
       </div>
+
+      {{ .Params.testfield }}
 
 			{{ if .Params.socialsharing }}
 		    	{{ partial "socialsharing.html" . }}
-		    {{ end }}
+		  {{ end }}
 
       </div>
 

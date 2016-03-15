@@ -1,7 +1,8 @@
 +++
 description = ""
-tags = [""]
+tags = []
 categories = ["Technical"]
 draft = true
-socialsharing = false
+socialsharing = true
+authors = []
 +++
