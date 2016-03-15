@@ -1,6 +1,7 @@
 The following files and directories, including their contents are copyright Nishant Totla, or their respective copyright holders:
 /layouts
 /content
+/public
 /static/images
 /themes/layouts/partials/analytics.html
 /themes/static/fonts
