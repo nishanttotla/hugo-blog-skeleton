@@ -56,9 +56,5 @@ Important things are more effective when said by famous people. Such as
 
 Finally, it's 2016 and emoji support is essential. Just pasting works! 😸😸😸
 
-## H2 is like this
-# H1 is like this
-### H3 is like that
-
 [^1]: Like this one.
 [^2]: Mostly to add extra content, and it's always cool when you can return to content right away.
