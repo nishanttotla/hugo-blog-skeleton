@@ -2,15 +2,6 @@
 <div class="row">
   <div class="post-title eight columns">
     <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
-    <div class="post-tag">
-    {{ $Site := .Site }}
-      {{ if .Params.tags }}
-        {{ range .Params.tags }}
-        <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}tags/{{ . | urlize }}">
-            <i class="icon-tag"></i> {{ . }}</a>
-        {{ end }}
-      {{ end }}
-    </div>
   </div>
   <div class="post-meta four columns">
     {{ if not .Params.nodate }}
