@@ -6,7 +6,7 @@ theme = "skeleton"
 [params]
   description = "Nishant's Website"
   author = "Nishant Totla"
-  authorDescription = "My name is Nishant Totla and I am an engineer. I love the outdoors and adventure. I like to talk about social justice."
+  authorDescription = "My name is Nishant Totla and I'm a software engineer at Docker. I love the outdoors and adventure. I think about technology, social issues, and the environment."
   siteDescriptors = ["blog", "outdoors", "adventure", "programming", "software", "Nishant Totla", "Nishant", "Totla"]
   authorTwitter = "nishanttotla"
   authorFacebook = "nishanttotla"
