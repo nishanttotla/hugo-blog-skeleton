@@ -110,10 +110,12 @@ blockquote {
 
 h1 {
   font-size: 3.0rem;
+  color: #5a6e79;
 }
 
 h2 {
   font-size: 2.5rem;
+  color: #5a6e79;
 }
 
 h3 {
@@ -148,6 +150,10 @@ div.post-title a.title {
   font-size: 1.8rem;
 }
 
+div.post-title a.title:hover {
+  color: #a2a7ab;
+}
+
 h1.post-title {
   margin-bottom: 1rem;
 }
@@ -157,7 +163,7 @@ h1.post-title a {
   font-weight: 800;
   letter-spacing: 0.1rem;
   text-decoration: none;
-  color: #69808c;
+  color: #576b75;
   font-size: 1.8rem;
 }
 
@@ -190,7 +196,7 @@ nav ul {
 }
 
 span.post-date.listing-date {
-  color: #a5bac5;
+  color: #83a0af;
   font-family: "Raleway", sans-serif;
   font-size: 1.6rem;
 }
@@ -218,7 +224,7 @@ a.post-tag {
 }
 
 .post-content-meta {
-  color: #a2b1b9;
+  color: #638a9c;
   font-size: 1.5rem;
   font-family: "Raleway", sans-serif;
 }
