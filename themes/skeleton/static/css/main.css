@@ -396,9 +396,9 @@ div#disqus_area {
   border-bottom: 1px solid #ddd;*/
 }
 
-code {
+pre {
   background: #f2f2f2;
-  border: 1px solid #ddd;
+  border-radius: 4px;
 }
 
 pre, .highlight pre {
