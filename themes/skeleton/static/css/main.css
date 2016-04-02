@@ -230,6 +230,9 @@ div.category-nav {
   padding-bottom: 10px;
   border-bottom: thin solid #e1e1e1;
   margin-bottom: 25px;
+  padding-top: 10px;
+  border-top: thin solid #e1e1e1;
+  margin-top: 25px;
 }
 
 .post-content {
