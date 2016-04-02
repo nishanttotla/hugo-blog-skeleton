@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "nRT"
 pygmentsUseClasses = true
 theme = "skeleton"
+[permalinks]
+  notes = "/blog/:title/"
 [params]
   description = "Nishant's Website"
   author = "Nishant Totla"
