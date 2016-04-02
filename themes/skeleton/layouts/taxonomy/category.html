@@ -4,7 +4,7 @@
 
   <div class="container">
       <h1 class="post-title"> <a href="#">{{ .Title }} Posts</a> </h1>
-      <p></p>
+        <div class="category-nav"><a class="post-tag" href="/blog">Back to all posts</a></div>
         {{ partial "corelist.html" . }}
   </div>
   {{ partial "footer.html" . }}

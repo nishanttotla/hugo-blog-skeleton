@@ -5,6 +5,7 @@ description = "Taking a vacation after a tough year"
 draft = false
 socialsharing = true
 tags = ["hawaii", "holidays"]
+aliases = ["/blog/2015/12/24/off-to-hawaii/"]
 title = "Off to Hawaii - a Good End to a Miserable Year"
 
 +++

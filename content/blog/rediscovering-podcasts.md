@@ -6,6 +6,7 @@ draft = false
 socialsharing = true
 tags = ["podcasts", "learning"]
 title = "Rediscovering Podcasts"
+aliases = ["/blog/2015/10/19/rediscovering-podcasts/"]
 
 +++
 

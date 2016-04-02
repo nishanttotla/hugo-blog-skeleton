@@ -1005,6 +1005,10 @@ div.footnotes {
   color: #69808c;
 }
 
+.post-header a:hover {
+  color: #a2a7ab;
+}
+
 blockquote {
   background: #e9f2f7;
   padding: 2rem;
@@ -1121,6 +1125,18 @@ a.post-tag {
   font-size: 1.4rem;
 }
 
+div.category-nav {
+  font-size: 1.4rem;
+  font-family: "Raleway", sans-serif;
+  text-align: left;
+  display: none;
+  padding-bottom: 10px;
+  border-bottom: thin solid #e1e1e1;
+  margin-bottom: 25px;
+  padding-top: 10px;
+  border-top: thin solid #e1e1e1;
+  margin-top: 25px;
+}
 
 .post-content {
   margin-top: 2rem;
@@ -1322,6 +1338,10 @@ pre, .highlight pre {
   h6 { font-size: 1.2rem; }
 
   div.post-meta, .paging {
+    display: block;
+  }
+
+  div.category-nav {
     display: block;
   }
 
