@@ -102,6 +102,10 @@ div.footnotes {
   color: #69808c;
 }
 
+.post-header a:hover {
+  color: #a2a7ab;
+}
+
 blockquote {
   background: #e9f2f7;
   padding: 2rem;
