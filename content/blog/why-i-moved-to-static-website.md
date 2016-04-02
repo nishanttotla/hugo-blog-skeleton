@@ -6,6 +6,7 @@ draft = false
 socialsharing = true
 tags = ["web-design", "hugo", "blog"]
 title = "Why I Moved to a Static Website"
+aliases = ["/articles/why-i-moved-to-static-website/"]
 
 +++
 

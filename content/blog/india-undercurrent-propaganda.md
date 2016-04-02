@@ -6,6 +6,7 @@ draft = false
 socialsharing = true
 tags = ["india", "politics", "social media"]
 title = "India's Undercurrent of Propaganda"
+aliases = ["/blog/2015/11/06/india-undercurrent-propaganda/"]
 
 +++
 

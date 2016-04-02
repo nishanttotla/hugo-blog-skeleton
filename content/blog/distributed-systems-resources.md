@@ -5,6 +5,7 @@ description = "An evolving collection of material on distributed systems"
 draft = false
 socialsharing = true
 tags = ["distributed systems"]
+aliases = ["/articles/distributed-systems-resources/"]
 title = "Distributed Systems Resources"
 authors = ["nRT"]
 
