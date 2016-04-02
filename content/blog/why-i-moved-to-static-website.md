@@ -1,7 +1,7 @@
 +++
 categories = ["Technical"]
 date = "2016-03-14T00:52:35-07:00"
-description = "Why I decided to get rid of my old Wordpress site and use Hugo instead"
+description = "Why I decided to get rid of my old WordPress site and use Hugo instead"
 draft = false
 socialsharing = true
 tags = ["web-design", "hugo", "blog"]
@@ -44,6 +44,7 @@ All that said, if this got you excited, and you want to build your own static si
 - Creating a good static site is likely to be more work, and takes a certain amount of comfort with web design. You also need to set up your own workflow which might be hard if you're unfamiliar with programming tools.
 - Static websites won't offer full dynamic functionality the way a WordPress site can, so you need to think about what you really need.
 - The overall writing experience might not appeal to you after all, if you prefer using WYSIWYG editors and writing tools (although considering the power of static site generators and modern text editors, I'm not unhappy).
+- It can be difficult to use other devices to write posts, depending on how complex it is to set up the development environment. Hugo makes it easy, but there can still be challenges with versioning, or when extra tools are needed. At the very least, editing on the phone will be difficult (unlike WordPress).
 
 ### In Conclusion
 
