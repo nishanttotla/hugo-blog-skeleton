@@ -17,6 +17,7 @@ In this (dynamically updated) post, I intend to keep track of all good resources
 
 ### Blogs
 1. [The Paper Trail](http://the-paper-trail.org/) by [Henry Robinson](https://twitter.com/HenryR)
+2. [Aphyr](https://aphyr.com/posts) by [Kyle Kingsbury](https://twitter.com/aphyr)
 
 ### Books
 
@@ -25,9 +26,10 @@ In this (dynamically updated) post, I intend to keep track of all good resources
 ### People
 1. [Henry Robinson](https://twitter.com/HenryR), Cloudera
 2. [Peter Bailis](https://twitter.com/pbailis), Stanford University
+3. [Kyle Kingsbury](https://twitter.com/aphyr)
 
-### Meetups
-1. Papers We Love [[Twitter](https://twitter.com/papers_we_love)] [[San Francisco](http://www.meetup.com/papers-we-love-too/)]
+### Misc
+1. Papers We Love [[Twitter](https://twitter.com/papers_we_love)] [[San Francisco](http://www.meetup.com/papers-we-love-too/)] is a cool meetup that discusses research papers, with chapters around the world.
 
 ### Want to Contribute to this post?
 Please feel free to make suggestions or [submit a PR](https://github.com/nishanttotla/hugo-blog-skeleton/blob/master/content/articles/distributed-systems-resources.md)!
