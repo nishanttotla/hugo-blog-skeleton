@@ -4,7 +4,7 @@ title = "nRT"
 pygmentsUseClasses = true
 theme = "skeleton"
 [permalinks]
-  notes = "/blog/:title/"
+  notes = "/blog/:filename/"
 [params]
   description = "Nishant's Website"
   author = "Nishant Totla"
