@@ -14,7 +14,7 @@ I was talking to my friend [Abhay](https://twitter.com/bothra90) recently, and h
 
 <div class="custom-quote">
   <h1 class="icon-quote-left"></i></h1>
-  <p>I'm not here to get things done. I'm here to learn. Things will get done as a by-product of what I learn.
+  <p>I'm not here to get things done. I'm here to learn. Things will get done as a side-effect of what I learn.
   </p>
 </div>
 
