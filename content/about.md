@@ -11,8 +11,10 @@ I use this website primarily to record and share my thoughts and ideas. I'm a so
 
 I consider adventure to be a big part of my identity -- not only the thrill-seeking kind, but also the state of mind that allows me to lead a life of exploration. Some of this appetite is satisfied by [long-distance running and biking](https://www.strava.com/athletes/2749248), and [travel](/places). One of my long term goals is to attain enough financial independence to lead a life that primarily involves adventure in some capacity. At that point, I'll gladly give up my current one that involves hours looking at a computer screen every day.
 
-Among other things, I enjoy playing music, reading, learning about new science and technology, and thinking about personal growth.
+Among other things, I enjoy playing music, reading, learning about new science and technology, and thinking about personal growth. I also support Arsenal Football Club.
 
 ### Connect
 
-The best way to reach me is via <a title="Email" href="mailto:nishanttotla@gmail.com"><i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla"><i class="icon-twitter"></i></a>. If you're a recruiter, read [this](/recruiting).
+The best way to reach me is via <a title="Email" href="mailto:nishanttotla@gmail.com"><i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla"><i class="icon-twitter"></i></a>. If you want to send me encrypted email, my public key is [7EA5 781C 9B3D 0C19](https://keybase.io/nishanttotla).
+
+If you're a recruiter, read [this](/recruiting).
