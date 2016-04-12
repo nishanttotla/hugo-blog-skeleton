@@ -16,7 +16,7 @@ I have to admit, despite having spent so many years studying Computer Science, m
 ### A Primer on PGP/GPG encryption
 Pretty Good Privacy (PGP) was a program created to encrypt/decrypt data back in 1991, and was later incorporated into a company that is now owned by Symantec. Later, an open standard called OpenPGP was created, which contained the formats for keys, encrypted messages, and message signatures defined by PGP. Thus, any other software that implemented the OpenPGP standard could interact with PGP. The GNU Privacy Guard (GPG) is one such implementation. It's open source, part of the GNU project, and has become standard software, powering a huge chunk of encryption on the web.
 
-The way these work is that you first generate a public and private key using a program on your computer. As the names suggest, the private key is a secret, while the public key can be made available publicly. When someone wants to send a message, they encrypt it using your public key. This is equivalent to a mathemtical operation that's computationally very hard to reverse, unless you have the corresponding private key. On the other hand, you can use your private key to "sign" a message, which can only be decrypted using your public key. This is useful to prove that the message is indeed coming from you. This shows how you can send a verified (signed) and encrypted message to a friend that is secure and tamper-evident[^1].
+The way these work is that you first generate a public and private key using a program on your computer. As the names suggest, the private key is a secret, while the public key can be made available publicly. When someone wants to send a message, they encrypt it using your public key. This is equivalent to a mathematical operation that's computationally very hard to reverse, unless you have the corresponding private key. On the other hand, you can use your private key to "sign" a message, which can only be decrypted using your public key. This is useful to prove that the message is indeed coming from you[^1]. This shows how you can send a verified (signed) and encrypted message to a friend that is secure and tamper-evident[^2].
 
 #### The Web of Trust
 Some important questions now need to be asked of OpenPGP compatible systems -- how sure are you that the person who sent you an encrypted message actually holds the private key that signed it? Or how do you know that the public key you used to encrypt an important message doesn't actually belong to an impostor? The point is that it's not enough to have encryption, you also need to be able to trust ownership of keys.
@@ -95,7 +95,7 @@ Push an encrypted copy of your new secret key to the Keybase.io server? [Y/n] n
 ▶ INFO   user: Nishant Totla <nishanttotla@gmail.com>
 ▶ INFO   4096-bit RSA key, ID 7EA5781C9B3D0C19, created 2016-04-07
 ```
-Great! This created a public-private key pair that I can now use to send encrypted messages to people, or sign stuff. The final line above is the public key fingerprint, also listed on [my Keybase account](https://keybase.io/nishanttotla). Notice that you have the option to upload an encrypted copy of your private key to the Keybase server[^2].
+Great! This created a public-private key pair that I can now use to send encrypted messages to people, or sign stuff. The final line above is the public key fingerprint, also listed on [my Keybase account](https://keybase.io/nishanttotla). Notice that you have the option to upload an encrypted copy of your private key to the Keybase server[^3].
 
 ### Adding Trust Using Public Accounts
 So far, nobody has reason to trust the public key on my Keybase profile. Let's use my Twitter account to remedy that.
@@ -124,7 +124,7 @@ Similar proofs are generated for [Github](https://gist.github.com/nishanttotla/0
 - Generated a paper key that I could use to authenticate the Keybase client on more devices
 - Verified ownership of this key pair by posting to public websites
 
-All of these are connected as shown below
+All of these are connected as shown below[^4]
 
 <figure>
     <img data-action="zoom" src="/images/keybase-io/keybase-graph.png" style="width:100%;"></img>
@@ -227,7 +227,9 @@ I've deliberately left out a lot of details from this post to make it more acces
 - [PGP Web of Trust: Core Concepts Behind Trusted Communication](https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication)
 - [Can I use a private key as a public key and vice versa?](http://security.stackexchange.com/questions/9957/can-i-use-a-private-key-as-a-public-key-and-vice-versa)
 
-Please feel free to suggest more links, or updates to the post!
+Please feel free to suggest more links, or updates to the post! Also thanks to Riyaz for proofreading!
 
-[^1]: Tamper-evident means that if the message was tampered with along the way, it would be clear because it wouldn't be possible to decrypt it using the matching public or private key.
-[^2]: Don't do it! There are several concerns, implications, and reasons around why one may want to do it (or not). [This thread](https://github.com/keybase/keybase-issues/issues/160) might be helpful.
+[^1]: This is what is known as asymmetric-key encryption, because there are two different keys that have different roles. There's also symmetric-key encryption, where both parties share one (secret) key, and the same key is used to encrypt and decrypt messages. Symmetric-key encryption is generally faster, but the challenge is sharing the key securely.
+[^2]: Tamper-evident means that if the message was tampered with along the way, it would be clear because it wouldn't be possible to decrypt it using the matching public or private key.
+[^3]: Don't do it! There are several concerns, implications, and reasons around why one may want to do it (or not). [This thread](https://github.com/keybase/keybase-issues/issues/160) might be helpful.
+[^4]: This graph, called a Merkle tree or hash tree is a tree in which every non-leaf node is labelled with the hash of the labels or values (in case of leaves) of its child nodes. Hash trees are useful because they allow efficient and secure verification of the contents of large data structures. The Keybase graph has bidirectional edges though, so it implements such checking in both directions.
