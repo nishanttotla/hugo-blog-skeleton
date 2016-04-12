@@ -7,7 +7,7 @@ title = "Places I've been"
 
 +++
 
-I was born in India and spent nearly 16 years of my life in the same city, with a little travel. In 2012, I moved to Berkeley, California where I've lived since.
+I was born in India and spent nearly 16 years of my life in one city, with a little occasional travel. I then spent 6 years away from home. In 2012, I moved to Berkeley, California where I've lived since.
 
 In 2014, I made the commitment to self that I'd travel to at least one new country each year. So far I've managed that, but here's a list of all the countries (non-transit) I've visited so far.
 
