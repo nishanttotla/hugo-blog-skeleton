@@ -226,6 +226,7 @@ I've deliberately left out a lot of details from this post to make it more acces
 - [What is Keybase in layman terms](https://www.quora.com/What-is-Keybase-in-laymans-terms)
 - [PGP Web of Trust: Core Concepts Behind Trusted Communication](https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication)
 - [Can I use a private key as a public key and vice versa?](http://security.stackexchange.com/questions/9957/can-i-use-a-private-key-as-a-public-key-and-vice-versa)
+- [Problems with Keybase](https://anarc.at/blog/2016-03-10-keybase/)
 
 Please feel free to suggest more links, or updates to the post! Also thanks to Riyaz for proofreading!
 
