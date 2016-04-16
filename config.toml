@@ -6,6 +6,8 @@ theme = "skeleton"
 [permalinks]
   notes = "/blog/:filename/"
 [taxonomies]
+  tag = "tags"
+  category = "categories"
   series = "series"
 [params]
   description = "Nishant's Website"
