@@ -7,6 +7,7 @@ socialsharing = true
 tags = ["college", "IITB"]
 title = "Eight Lessons I Learned in College"
 aliases = ["/blog/2012/06/21/x-lessons-i-learned-in-college/"]
+series = ["non-technical"]
 
 +++
 

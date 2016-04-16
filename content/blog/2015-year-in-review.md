@@ -6,6 +6,7 @@ draft = false
 socialsharing = true
 tags = ["life"]
 title = "2015 Year in Review"
+series = ["non-technical"]
 
 +++
 

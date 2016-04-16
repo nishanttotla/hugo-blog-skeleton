@@ -5,6 +5,8 @@ pygmentsUseClasses = true
 theme = "skeleton"
 [permalinks]
   notes = "/blog/:filename/"
+[taxonomies]
+  series = "series"
 [params]
   description = "Nishant's Website"
   author = "Nishant Totla"
