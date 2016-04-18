@@ -15,6 +15,6 @@ Among other things, I enjoy playing music, reading, learning about new science a
 
 ### Connect
 
-The best way to reach me is via <a title="Email" href="mailto:nishanttotla@gmail.com"><i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla"><i class="icon-twitter"></i></a>. If you want to send me encrypted email, my public key is [7EA5 781C 9B3D 0C19](https://keybase.io/nishanttotla).
+The best way to reach me is via <a title="Email" href="mailto:nishanttotla@gmail.com"><i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla"><i class="icon-twitter"></i></a>. My public key is [7EA5 781C 9B3D 0C19](https://keybase.io/nishanttotla).
 
 If you're a recruiter, read [this](/recruiting).
