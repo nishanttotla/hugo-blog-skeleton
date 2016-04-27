@@ -1242,8 +1242,8 @@ p.tech-stack span.tag {
 }
 
 h1.social-me a {
-  font-size: 3rem;
-  margin-right: 2rem;
+  font-size: 2.5rem;
+  margin-right: 1rem;
   color: #5a6e79;
 }
 
@@ -1252,7 +1252,7 @@ h1.social-me a:hover {
 }
 
 h1.social-sharing a {
-  font-size: 3.0rem;
+  font-size: 2.5rem;
   margin-right: 0rem;
   color: #5a6e79;
 }
@@ -1262,7 +1262,7 @@ h1.social-sharing a:hover {
 }
 
 h1.social-sharing {
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   margin-right: 0rem;
   color: #5a6e79;
 }
@@ -1388,6 +1388,20 @@ pre, .highlight pre {
       padding: 4px 8px;
   }
 
+  h1.social-me a {
+    font-size: 3rem;
+    margin-right: 2rem;
+  }
+
+  h1.social-sharing a {
+    font-size: 3.0rem;
+    margin-right: 0rem;
+  }
+
+  h1.social-sharing {
+    font-size: 2.5rem;
+    margin-right: 0rem;
+  }
 }
 
 .highlight .hll { background-color: #ffffcc }
