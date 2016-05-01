@@ -1,16 +1,16 @@
 {{ range .Data.Pages }}
 <div class="row">
-  <div class="post-title eight columns">
-    <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
-  </div>
-  <div class="post-meta four columns">
+  <div class="post-meta two columns">
     {{ if not .Params.nodate }}
     <span class="post-date listing-date">
-      <span class="post-date-month">{{ .Date.Format "January" }}</span>
-      <span class="post-date-day"> {{ .Date.Format "2" }}, </span>
+      <span class="post-date-month">{{ .Date.Format "Jan" }}</span>
+      <span class="post-date-day"> {{ .Date.Format "02" }}, </span>
       <span class="post-date-year">{{ .Date.Format "2006" }}</span>
     </span>
     {{ end }}
+  </div>
+  <div class="post-title nine columns">
+    <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
   </div>
 </div>
 {{ end }}
