@@ -163,7 +163,6 @@ h1.post-title {
 }
 
 h1.post-title a {
-  text-transform: uppercase;
   font-weight: 800;
   letter-spacing: 0.1rem;
   text-decoration: none;
