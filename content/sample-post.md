@@ -9,7 +9,9 @@ socialsharing = true
 
 +++
 
-This is a sample post to demonstrate all the cool stuff that can be put inside a post on this blog. This is written in markdown, so all markdown syntax works, obviously. Let's look at some notable things that can be done here.
+This is a sample post to demonstrate all the cool stuff that can be put inside a post on this blog. This is written in markdown, so all markdown syntax works, obviously. Let's look at **some notable things** that can be *done here*.
+
+# H1 headers are pretty big
 
 Code looks like `cmd <opt>`. You can also write blocks of code like
 ```
@@ -30,6 +32,8 @@ And then there's syntax highlighting with `< highlight language-name >` tags
 $ echo "life is easier when you have syntax highlighting, but let's write a long line anyway, to see how text wrapping is dealt with"
 {{< /highlight >}}
 
+## Good spot for an H2
+
 Moving on, what's a blog post without images? Here's how to add images to a post, with several features enabled. Go figure.
 <figure>
     <img data-action="zoom" src="/images/nishant_seattle.jpg" style="width:80%;"></img>
@@ -38,6 +42,8 @@ Moving on, what's a blog post without images? Here's how to add images to a post
 
 Of course it's possible to link the image (or its caption to another page). The `<figure>` tags aren't necessary, and all styling works without them too, just in case you want to go down that path.
 
+### H3 headers also get a line underneath
+
 I love Twitter, so gotta be able to embed tweets inside posts. Hugo shortcodes won't align the tweet to center, so just use the Twitter embed code for now. Make sure to use `class="twitter-tweet tw-align-center"` in the embed code.
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Gif search means I can instantly tweet a gif of a kitten eating its tail. <a href="https://t.co/Bsvez00Nhe">pic.twitter.com/Bsvez00Nhe</a></p>&mdash; Nishant Totla (@nishanttotla) <a href="https://twitter.com/nishanttotla/status/702604796822364160">February 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -45,6 +51,8 @@ I love Twitter, so gotta be able to embed tweets inside posts. Hugo shortcodes w
 This is a foolproof method to embed any other content too, until I figure out a way create my own parametrized shortcodes.
 
 Footnotes[^1] are immensely useful in blog posts and I often overuse them[^2].
+
+#### H4 is rarely used, but for small sub-headings
 
 Important things are more effective when said by famous people. Such as
 
