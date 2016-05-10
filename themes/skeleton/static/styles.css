@@ -1078,7 +1078,7 @@ h1.post-title a {
 nav ul li {
   list-style-type: none;
   display: inline-block;
-  font-size: 2rem;
+  font-size: 1.7rem;
   margin: 0 2rem;
 }
 
@@ -1348,7 +1348,7 @@ pre, .highlight pre {
   nav ul li {
     list-style-type: none;
     display: inline-block;
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin: 0 1.5rem;
   }
 
