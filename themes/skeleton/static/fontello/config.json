@@ -155,6 +155,12 @@
       "css": "list-bullet",
       "code": 59416,
       "src": "fontawesome"
+    },
+    {
+      "uid": "jqzwo6i8oicjbn049sh2856d8anrqoli",
+      "css": "edit",
+      "code": 59417,
+      "src": "typicons"
     }
   ]
 }
