@@ -62,9 +62,11 @@ input[type="email"]:focus, input[type="search"]:focus, input[type="text"]:focus,
   padding: 3rem;
   width: 80%;
 }
+
 figure {
   text-align: center;
 }
+
 figure img {
   width: 100%;
   height: auto!important;
@@ -169,7 +171,6 @@ h1.post-title a {
   color: #576b75;
   font-size: 1.8rem;
 }
-
 
 /* HEADER SECTION */
 nav ul li {
@@ -478,14 +479,14 @@ pre, .highlight pre {
   }
 
   p.tech-stack {
-      font-size: 1.2rem;
-      margin-bottom: 0.8rem;
-      font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 0.8rem;
+    font-weight: 600;
   }
 
   p.tech-stack span.tag {
-      margin-right: 10px;
-      padding: 4px 8px;
+    margin-right: 10px;
+    padding: 4px 8px;
   }
 
   h1.social-me a {
