@@ -1214,36 +1214,8 @@ ul#quotes-list li span.author {
 
 /* QUOTE PAGE ENDS */
 
-ul#projects-list {
-  padding-left: 0;
-}
-
-ul#projects-list li {
-  list-style-type: none;
-}
-
-ul#projects-list div.project-item {
-  margin-bottom: 5rem;
-}
-
 a.fork-github {
   float: right;
-}
-
-p.tech-stack {
-  text-transform: uppercase;
-  font-family: "Open Sans", sans-serif;
-  font-size: 1.0rem;
-  margin-bottom: 0.8rem;
-  color: white;
-  font-weight: 600;
-}
-
-p.tech-stack span.tag {
-  background-color: #5a6e79;
-  margin-right: 10px;
-  padding: 4px 4px;
-  border-radius: 4px;
 }
 
 h1.social-me a {
@@ -1380,17 +1352,6 @@ pre, .highlight pre {
 
   h1.post-title {
     margin-bottom: 2rem;
-  }
-
-  p.tech-stack {
-    font-size: 1.2rem;
-    margin-bottom: 0.8rem;
-    font-weight: 600;
-  }
-
-  p.tech-stack span.tag {
-    margin-right: 10px;
-    padding: 4px 8px;
   }
 
   h1.social-me a {
