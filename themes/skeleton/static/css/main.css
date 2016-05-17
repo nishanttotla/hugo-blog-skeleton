@@ -245,10 +245,14 @@ div.category-nav {
 }
 
 .post-content h4 {
-    font-size: 1.8rem;
-    font-weight: 800;
-    margin-bottom: 1.5rem;
-    color: #5a6e79;
+  font-size: 1.8rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  color: #5a6e79;
+}
+
+.post-content a:hover {
+  border-bottom: 1px dashed #307EA9;
 }
 
 .footer {
