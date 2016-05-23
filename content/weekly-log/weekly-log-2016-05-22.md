@@ -17,9 +17,11 @@ title = "Weekly Log (2016-05-22)"
 - [Dying Infants and No Medicine: Inside Venezuela’s Failing Hospitals](http://www.nytimes.com/2016/05/16/world/americas/dying-infants-and-no-medicine-inside-venezuelas-failing-hospitals.html) [The New York Times] -- I had no idea things were so bad in Venezuela. This article reports a disastrous failure of infrastructure in the country, under political instability and poor economic planning. In particular, hospitals seem to be very badly affected leading to growing mortality rates.
 
 ### Music
-- Most of the good music I've recently discovered has been from Coke Studio, thanks to Soundcloud. Tum Naraz Ho is a soothing melody, while Shakar Wandaan Re is a very energetic composition.
+- Most of the good music I've recently discovered has been from Coke Studio, thanks to Soundcloud. Tum Naraz Ho is a soothing melody about the time when a person's lover is upset with them.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/168257758&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+- Shakar Wandaan Re is a very energetic composition with catchy and playful lyrics.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/171491148&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 

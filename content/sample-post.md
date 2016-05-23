@@ -40,7 +40,17 @@ Moving on, what's a blog post without images? Here's how to add images to a post
     <figcaption>This is me in Seattle, March 2016</figcaption>
 </figure>
 
-Of course it's possible to link the image (or its caption to another page). The `<figure>` tags aren't necessary, and all styling works without them too, just in case you want to go down that path.
+Of course it's possible to link the image (or its caption to another page). The `<figure>` tags aren't necessary, and all styling works without them too, just in case you want to go down that path. What's nice about `<figure>` though is that you can use it to make image grids that share a caption. Cool right?
+
+<figure>
+    <img data-action="zoom" src="/images/sad-cat.jpg" style="width:48%; float: left"></img>
+    <img data-action="zoom" src="/images/sad-cat.jpg" style="width:48%;"></img>
+    <img data-action="zoom" src="/images/sad-cat.jpg" style="width:48%; float: left"></img>
+    <img data-action="zoom" src="/images/sad-cat.jpg" style="width:48%;"></img>
+    <figcaption>Someone please make this cat happy.</figcaption>
+</figure>
+
+The caveat is that you'll have to manually set widths so that it looks good, and aspect ratios need to match up if the grid is to render properly. At least this will work well on smaller screen sizes.
 
 ### H3 headers also get a line underneath
 
