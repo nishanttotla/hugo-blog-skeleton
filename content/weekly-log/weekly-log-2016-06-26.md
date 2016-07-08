@@ -12,7 +12,7 @@ title = "Weekly Log (2016-06-26)"
 
 ### Articles
 
-- [“But he does good work.”](https://medium.com/@violetblue/but-he-does-good-work-6710df9d9029#.uz90bya0k) [Medium] --
+- [“But he does good work.”](https://medium.com/@violetblue/but-he-does-good-work-6710df9d9029#.uz90bya0k) [Medium] -- One of the stories behind Tor project evangelist Jacob Appelbaum and the sexual harassment and rape charges against him. It also touches upon the deep rooted culture in the tech that protects harassers. Violet Blue (the author) also reveals details about her interactions with Appelbaum in the past.
 
 - [Counter-Advice for the PhD](http://jxyzabc.blogspot.com/2016/06/counter-advice-for-phd.html) [Jean Yang] -- A lot of successful academics give advice that doesn't make sense for those who are new or struggling, because they forget what it was actually like to be in that position. This post addresses some of that, and would have been very helpful had I read it at the start of my (failed) PhD.
 
