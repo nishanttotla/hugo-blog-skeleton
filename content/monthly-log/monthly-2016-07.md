@@ -41,4 +41,3 @@ title = "July 2016"
 - [Pokémon Go](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/) -- This is a new exciting augmented-reality game that I started playing this week. The idea is that you use your phone as a Pokedex to catch and battle Pokemon in the real world. Similar in principle to [Ingress](https://www.ingress.com/), which was launched more than 3 years ago.
 
 - [My Dinner with Andre (We are bored)](https://www.youtube.com/watch?v=MRBZDmf1jSw) -- I discovered this really articulate monologue and liked it. It seems fairly relevant, especially after I wrote about Pokémon Go above.
-
