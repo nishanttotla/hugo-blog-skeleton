@@ -8,7 +8,7 @@ nocomment = true
 I use this website primarily to record and share my thoughts, ideas, life events, and learnings. Some of the things I write about include technology, travel, mental health, company culture, and social justice. Here's what you can find on here
 
 - [Blog](/blog) -- Longer articles that I've put more thought into.
-- [Weekly Log](/weekly-log) -- A weekly summary of readings, music, and other interesting things.
+- [Monthly Log](/monthly-log) -- A monthly summary of readings, music, and other interesting things.
 - [Notes](/notes) -- Short blurbs that you can totally skip if you want.
 
 If you want to reach me, send <a title="Email" href="mailto:nishanttotla@gmail.com">email<i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla">tweet<i class="icon-twitter"></i></a>. My public key is [7EA5 781C 9B3D 0C19](https://keybase.io/nishanttotla).
