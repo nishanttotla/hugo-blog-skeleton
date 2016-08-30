@@ -12,16 +12,14 @@ title = "Weekly Log (2016-07-31)"
 
 ### Articles
 
-- [Milo Yiannopoulos's Twitter ban, explained](http://www.vox.com/2016/7/20/12226070/milo-yiannopoulus-twitter-ban-explained) [Vox] -- As a follow up, [this](http://www.vox.com/2016/7/22/12256384/leslie-jones-twitter-harassment-seth-meyers).
+- [“He Thinks He’s Untouchable”](https://www.buzzfeed.com/azeenghorayshi/michael-katze-investigation?utm_term=.ve8RL5GWA#.hhZgPJBxa) [BuzzFeed] -- Michael Katze, famous for his studies of Ebola and the flu, ran a lab at the University of Washington where intoxication and sexual harassment went unchecked, and he misused public resources for personal gain, according to two investigations. This is another story in the line of recent revelations detailing sexual harassment on prominent university campuses.
 
-- [The Racist History of Portland, the Whitest City in America](http://www.theatlantic.com/business/archive/2016/07/racist-history-portland/492035/) [The Atlantic] --
+- [What is fracking and why is it controversial?](http://www.bbc.com/news/uk-14432401) [BBC News] -- I've been hearing a lot about fracking in the news, and was curious, so googled to find this article that describes briefly what fracking is, it's advantages, and potential negative impact. Fracking has been used in North America with a great deal of success recently, helping drive down oil prices. [This](https://en.wikipedia.org/wiki/Hydraulic_fracturing_in_the_United_States) Wikipedia article covers North America in great detail.
 
-- [When the Body Attacks the Mind](http://www.theatlantic.com/magazine/archive/2016/07/when-the-body-attacks-the-mind/485564/) [The Atlantic] --
+### Movies and TV Shows
 
-- [Lather, Rinse, Repeat](http://www.caravanmagazine.in/reportage/lather-rinse-repeat-saas-bahu-saga) [The Caravan] --
+- [Stranger Things](http://www.imdb.com/title/tt4574334) -- 80s suburban America, and the nostalgia factor even though I wasn't there, X-Files, charm. [Video link](https://vimeo.com/175929311) for references. Soundtrack.
 
-- [“He Thinks He’s Untouchable”](https://www.buzzfeed.com/azeenghorayshi/michael-katze-investigation?utm_term=.ve8RL5GWA#.hhZgPJBxa) [BuzzFeed] --
+### Miscellaneous
 
-- [What is fracking and why is it controversial?](http://www.bbc.com/news/uk-14432401) [BBC News] --
-
-- [Experimenting with Post-Quantum Cryptography](https://security.googleblog.com/2016/07/experimenting-with-post-quantum.html) [Google Security Blog] --
+- [Coke Studio for the Deaf](https://www.youtube.com/watch?v=2QzAl4HIXY8) --
