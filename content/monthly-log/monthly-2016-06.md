@@ -24,7 +24,7 @@ title = "June 2016"
 
 - [Counter-Advice for the PhD](http://jxyzabc.blogspot.com/2016/06/counter-advice-for-phd.html) [Jean Yang] -- A lot of successful academics give advice that doesn't make sense for those who are new or struggling, because they forget what it was actually like to be in that position. This post addresses some of that, and would have been very helpful had I read it at the start of my (failed) PhD.
 
-- [The Lack of Options for (Startup Employees’) Options](http://a16z.com/2016/06/23/options-timing/) [Andreessen Horowitz] -- This post from the VC firm talks about how the 10 year exercise window doesn't make sense, and amounts to a "transfer" of wealth from newer employees to older ones who quit. It has been controversial last week, especially given that it does not provide any good alternative solutions.
+- [The Lack of Options for (Startup Employees’) Options](http://a16z.com/2016/06/23/options-timing/) [Andreessen Horowitz] -- This post from the VC firm talks about how the 10 year exercise window doesn't make sense, and amounts to a "transfer" of wealth from newer employees to older ones who quit. It has been controversial this month, especially given that it does not provide any good alternative solutions.
 
 - [10-Year Exercise Periods Make Sense](https://dangelo.quora.com/10-Year-Exercise-Periods-Make-Sense?share=1) [Quora] -- Adam D'Angelo, the co-founder and CEO of Quora responded to the above post, coming out in favor of the 10 year exercise window. Note that Quora was the first company to implement it.
 
