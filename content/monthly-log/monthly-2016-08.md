@@ -24,6 +24,8 @@ title = "August 2016"
 
 - [Experimenting with Post-Quantum Cryptography](https://security.googleblog.com/2016/07/experimenting-with-post-quantum.html) [Google Security Blog] --
 
+- [Flight Risk](http://www.slate.com/articles/double_x/doublex/2016/08/what_happens_when_sexual_assault_happens_on_a_long_haul_flight.html) [Slate] --
+
 
 ### Movies and TV Shows
 
