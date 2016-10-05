@@ -18,7 +18,7 @@ In 2014, I made the commitment to self that I'd travel to at least one new count
 5. Russia (2009)
 6. Kazakhstan (2009)
 7. Austria (2010, 2011)[^1]
-8. Germany (2010)
+8. Germany (2010, 2011, 2016)
 9. Czech Republic (2010)
 10. Italy (2010, 2013)
 11. Vatican City (2010)
