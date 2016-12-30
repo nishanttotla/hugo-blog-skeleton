@@ -28,7 +28,7 @@ increasing loneliness, conflated with other personal struggles, including those
 with healthcare and bureaucracy. All of that has surely dulled the sheen that
 California once held for me. It's not a radical idea that each place has its
 problems, but to truly feel and internalize it, and move past the
-developed world fetishism that many in India grow up with is quite
+first world fetishism that many in India grow up with is quite
 empowering. I've also been extremely fortunate in the last 2-3 years to
 have traveled to multiple places and made friends with people
 from diverse backgrounds.
