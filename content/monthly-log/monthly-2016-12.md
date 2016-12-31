@@ -34,6 +34,10 @@ from the last 4-5 months.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/279982238&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+### Movies and TV Shows
+
+- [The Man in the High Castle](http://www.imdb.com/title/tt1740299/) -- I binged through Season 1 of this gripping alternative history series, which imagines what the world might have looked like had the Allies lost WWII. Highly recommended for history buffs.
+
 ### Travel
 
 - Tokyo, Japan -- I finally took some vacation days and traveled to a new country for the year.
