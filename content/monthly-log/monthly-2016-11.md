@@ -27,7 +27,7 @@ president. Personally, I'm extremely paranoid and afraid given the striking simi
 between Trump and many other fascist authoritarian demagogues littered throughout history.
 This article (not the only one) articulates why that paranoia isn't pointless rambling.
 
-- [https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba#.wr4h9scx8](https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba#.wr4h9scx8) [Medium] -- A Computer Science professor from Michigan writes about how the implementation
+- [Want to Know if the Election was Hacked? Look at the Ballots](https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba#.wr4h9scx8) [Medium] -- A Computer Science professor from Michigan writes about how the implementation
 of elections in America is extremely vulnerable to malicious attacks. While a lot of the
 talk on "hacking" the election has already been done in mainstream media, several people
 probably still treat it as science fiction. This article presents how it's entirely
