@@ -34,6 +34,8 @@ probably still treat it as science fiction. This article presents how it's entir
 possible, and has probably already happened. [Here's a Guardian news story](https://www.theguardian.com/us-news/2016/dec/05/us-election-recount-michigan-donald-trump-hillary-clinton) that shows
 how the Michigan recount might be affected just by shoddy machines.
 
+- [Autocracy: Rules for Survival](http://www.nybooks.com/daily/2016/11/10/trump-election-autocracy-rules-for-survival/) [NYR Daily] -- Wisdom from a seasoned Putin fighter, Masha Gessen, on how to deal with a Putin-wannabe. In her own words, "I have lived in autocracies most of my life, and have spent much of my career writing about Vladimir Putin’s Russia. I have learned a few rules for surviving in an autocracy and salvaging your sanity and self-respect. It might be worth considering them now."
+
 - [Intellectual Hipsters and Meta-Contrarianism](http://lesswrong.com/lw/2pv/intellectual_hipsters_and_metacontrarianism/) [LessWrong] -- An old post I'd read a long
 time ago, and pulled up again recently. Based on the (mostly political) discussions over
 the last few weeks, it has felt extremely relevant. I strongly recommend reading this
