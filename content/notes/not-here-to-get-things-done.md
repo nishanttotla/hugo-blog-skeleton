@@ -19,3 +19,9 @@ I was talking to my friend [Abhay](https://twitter.com/bothra90) recently, and h
 </div>
 
  I strongly believe that it's largely your responsibility to ensure that you're learning, and not succumbing to the pressure to show progress. The reason I liked his point of view was because it's a good attitude to have, and helps to set expectations. In my own work, I have certainly written code I didn't fully understand, had it compile and pass all tests. It's easy to feel accomplished doing that, but important to remember it's not the end goal.
+
+I'll admit that this is very clearly an entitled attitude that software
+engineers can afford to have due to abundance of jobs. Even otherwise, there are times when
+the right balance means getting things done without having the luxury of learning.
+Still, adopting the above attitude can serve as a good way to strongly push the
+individual and help focus whenever possible.
