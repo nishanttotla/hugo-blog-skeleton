@@ -41,4 +41,4 @@ I watched several good movies this month, though there are still more I have to 
 
 - [Dear Zindagi](http://www.imdb.com/title/tt5946128/) -- Another Hindi movie that deserves a mention. Bollywood tends to poorly treat many complex issues, and mental health remains one of them, so it's refreshing to see a generally mature movie centered around mental health issues and therapy (which is still a big taboo in India).
 
-- [La La Land](http://www.imdb.com/title/tt3783958/) -- Nominated for 14 academy awards, and every bit worth that. Each frame feels like art, and Emma Stone in particular is a very good actress.
+- [La La Land](http://www.imdb.com/title/tt3783958/) -- Nominated for 14 academy awards, and every bit worth that. Each frame feels like art, and Emma Stone in particular is a very good actress. That said, there's something ironic about a movie about saving Jazz with all-white cast.
