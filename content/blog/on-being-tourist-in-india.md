@@ -35,7 +35,7 @@ from diverse backgrounds.
 As a result, I find that I'm quite willing to look past trivial (and
 sometimes even big) inconveniences and focus on the positives whenever I travel
 to a new place. Once again, none of this is very unique, and seasoned travelers
-are often quite patient people (I'm not).
+are often quite patient people (I'm neither).
 
 The reason I felt compelled to write about this is that adopting a different attitude
 made my recent India experience extremely positive. On an absolute level, the India

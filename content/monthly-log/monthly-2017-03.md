@@ -3,33 +3,73 @@ authors = []
 categories = []
 date = "2017-03-31T12:00:30-08:00"
 description = "Interesting updates from the past month"
-draft = true
+draft = false
 socialsharing = false
 tags = ["monthly-log"]
 title = "March 2017"
 
 +++
 
+It's a full year of publishing a monthly log! The last time I stuck to something for that long, I got stock options.
+
 ### Articles
 
-- [No, India, Domestic Violence Is Not A Fucking “Family Matter”](https://www.buzzfeed.com/richakaulpadte/yeh-toh-family-matter-hai?utm_term=.ldVJ1Bqlb#.deMR67Mmz) [BuzzFeed] --
+- [The Trip Treatment](http://www.newyorker.com/magazine/2015/02/09/trip-treatment) [The New Yorker] -- The most comprehensive article I've ever read about the use of psychedelics for medical treatment (mostly addiction, anxiety, and other mental health conditions). There is renewed enthusiasm in the promise of psychedelic drugs for treatment (this article mostly focuses on psilocybin, the active compound in magic mushrooms), even as they continue to be outlawed, researchers face difficulties getting funding, and several scientific questions remain unanswered. The article also delves into the history of origins and usage of psychedelic compounds, as well as the major figures and research labs currently leading the charge.
 
-- [Milo Yiannopoulos's Twitter ban, explained](http://www.vox.com/2016/7/20/12226070/milo-yiannopoulus-twitter-ban-explained) [Vox] -- As a follow up, [this](http://www.vox.com/2016/7/22/12256384/leslie-jones-twitter-harassment-seth-meyers).
+- [What if Sociologists Had as Much Influence as Economists?](https://www.nytimes.com/2017/03/17/upshot/what-if-sociologists-had-as-much-influence-as-economists.html) [The New York Times] -- For most policy decisions, economists are the go-to experts today. And yet, several economic policies fail to take into account sociological factors that cannot be reliably modeled by market dynamics. Here's an opinion on why it makes sense to increase involvement of sociologists in policymaking.
 
-- [The Racist History of Portland, the Whitest City in America](http://www.theatlantic.com/business/archive/2016/07/racist-history-portland/492035/) [The Atlantic] --
+- [Mars Needs Lawyers](https://fivethirtyeight.com/features/mars-needs-lawyers/) [FiveThirtyEight] -- A take on the legal issues that are going to come up as more countries foray into space, and major space expeditions continue to be more collaborative in nature.
 
-- [When the Body Attacks the Mind](http://www.theatlantic.com/magazine/archive/2016/07/when-the-body-attacks-the-mind/485564/) [The Atlantic] --
+- [In praise of cash](https://aeon.co/essays/if-plastic-replaces-cash-much-that-is-good-will-be-lost) [Aeon] -- In light of India's recent focus on demonetization, and the common preference for "cashless" transactions in several industrialized countries, here's one article arguing why cashless isn't the utopia it's advertized to be.
 
-- [Lather, Rinse, Repeat](http://www.caravanmagazine.in/reportage/lather-rinse-repeat-saas-bahu-saga) [The Caravan] --
+- [Why Is Silicon Valley So Awful to Women?](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/) [The Atlantic] -- Quoting "Tech companies are spending hundreds of millions of dollars to improve conditions for female employees. Here’s why not much has changed—and what might actually work." This is a really long read, and summarizes recent progress and possible future steps to make Silicon Valley a more welcoming place for women.
 
-- [Experimenting with Post-Quantum Cryptography](https://security.googleblog.com/2016/07/experimenting-with-post-quantum.html) [Google Security Blog] --
+- [Flight Risk](http://www.slate.com/articles/double_x/doublex/2016/08/what_happens_when_sexual_assault_happens_on_a_long_haul_flight.html) [Slate] -- As the discussion on sexual harassment and assault gets more attention, it's worthwhile considering which settings are poorly equipped to handle instances of it (the answer is almost all settings). This article discusses what happens when sexual assault takes place on a flight.
 
-- [The Ugly Unethical Underside of Silicon Valley](http://fortune.com/silicon-valley-startups-fraud-venture-capital/) [Fortune] --
+- [The Economic Power of Cities Compared to Nations](https://www.citylab.com/work/2017/03/the-economic-power-of-global-cities-compared-to-nations/519294/) [CityLab] -- Quoting from the article, "Tokyo, the world’s largest metro economy with $1.6 trillion in GDP-PPP, is just slightly smaller than all of South Korea. Were it a nation, Tokyo would rank as the 15th largest economy in the world." There are more such comparisons in there.
 
-- [Flight Risk](http://www.slate.com/articles/double_x/doublex/2016/08/what_happens_when_sexual_assault_happens_on_a_long_haul_flight.html) [Slate] --
+- [Living in Switzerland ruined me for America and its lousy work culture](http://www.vox.com/2015/7/21/8974435/switzerland-work-life-balance) [Vox] -- Of all the industrialized nations, America often gets the most flak for poor labor laws, unhealthy work culture, and insufficient benefits. This post describes one family's experience in Switzerland, and how much better life can be there compared to America.
 
-- [Intake](https://www.buzzfeed.com/rosalindadams/intake?utm_term=.nyQ9MWJ3X#.vc4jEAg5G) [BuzzFeed] -- This is a long investigative piece.
+- [Why Dentistry Is Separate From Medicine](https://www.theatlantic.com/health/archive/2017/03/why-dentistry-is-separated-from-medicine/518979/) [The Atlantic] -- A take on the history of why dentistry in America is so separate from the rest of healthcare. It discusses how dentistry evolved in the country, and what prevents it from being merged with mainstream healthcare.
+
+### Podcasts
+
+I've been listening to several podcasts during the last few months, and they should be included in monthly logs. Here are some of the good ones from March.
+
+- [Episode 650: The Business Genius Behind Get Out](http://www.npr.org/sections/money/2017/03/29/521950337/episode-650-the-genius-behind-get-out) [Planet Money] -- An intriguing movie production company called Blumhouse (behind the recent hit "Get Out"), whose business model is to produce a large number of low-budget, and bet on the success of a few.
+
+- [Episode 760: Tax Hero](http://www.npr.org/sections/money/2017/03/22/521132960/episode-760-tax-hero) [Planet Money] -- Why taxes continue to be difficult to file in America, and a look at a dedicated individual's failed attempt to fix that.
+
+- [Episode 522: The Invention Of 'The Economy'](http://www.npr.org/sections/money/2017/03/15/520294083/episode-522-the-invention-of-the-economy) [Planet Money] -- How the GDP came to be the single metric of a country's progress (it's a very recent idea!).
+
+### Movies and TV Shows
+
+- [Denial](http://www.imdb.com/title/tt4645330/) -- Based on a true story, this movie is about writer and historian Deborah Lipstadt, who gets sued for libel by a Holocaust denier, and the court case rests on proving that the Holocaust actually occurred.
+
+### Travel
+
+- New Orleans -- My first visit to the famous city, and also first time in the South.
+
+### Music
+
+- This Funk version of the iconic Humma song by Benny Dayal is quite good!
+
+{{< youtube 0XfMrkS3Jfk >}}
+
+<br>
+
+- [Thaikkudam Bridge](https://en.wikipedia.org/wiki/Thaikkudam_Bridge) is a Kerala-based music band, and they have some brilliant covers. This is an interesting twist on Beat It (Michael Jackson).
+
+{{< youtube epAJ3VKbU_U >}}
+
+<br>
 
 ### Miscellaneous
 
-- https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world, https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen
+- [Sideways Dictionary](https://sidewaysdictionary.com/#/) -- This is a collection of analogies that try to explain (in simple terms) technical terms related to security. Analogies are crowdsourced, and people can vote on which ones they like. The Washington Post will integrate Sideways Dictionary into all of its stories. Any security keywords appearing in an article will be linked to the dictionary. Here's a [Wired article](https://www.wired.com/2017/03/sideways-dictionary-google-washington-post/) for more detail.
+
+- [Annie Easley, Computer Scientist and Mathematician (photo)](https://www.nasa.gov/image-feature/annie-easley-computer-scientist-and-mathematician) -- In 1955, Annie Easley began her career at NASA, then the National Advisory Committee for Aeronautics (NACA), as a human computer performing complex mathematical calculations. See the photo to understand its significance. The NASA image feature page is generally cool.
+
+- [Index of Best AI/Machine Learning Resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d#.xtlbxjgda) -- A large collection, saving for future use.
+
+- [Mastodon](https://mastodon.social/about) -- An open-source Twitter competitor, the advertising says. The idea isn't new in my book, but we'll see how this implementation turns out. It looks promising, going by initial reception.
