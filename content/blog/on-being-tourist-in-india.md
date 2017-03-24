@@ -21,8 +21,8 @@ India after that, I'd often complain about the lack of infrastructure, pollution
 poor traffic, general disorder, and a host of other problems that might
 affect any developing country. Typical NRI behavior, I know.
 
-This trip was so different though! Although it was my first proper
-long vacation in over four years, that doesn't explain everything. Over the last
+This trip was so different though! It was my first proper
+long vacation in over four years, although that doesn't explain everything. Over the last
 two years, my life in the US hasn't exactly been a smooth ride, and I've felt
 increasing loneliness, conflated with other personal struggles, including those
 with healthcare and bureaucracy. All of that has surely dulled the sheen that

@@ -61,9 +61,6 @@ James Blunt's "Your Beautiful" translated to Punjabi, pretty cool!
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167677079&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 I discovered this acapella version of Strings' "Mera Bichra Yaar" two weeks ago, but found it again and really loved it.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217632953&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-I don't have (and didn't find out) much background about this track, but it's good nonetheless.
-
 So far these suggestions have been 👌👏 and I've just kept the tab open as an anytime go-to radio.
 
 ### Miscellaneous
