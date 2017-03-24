@@ -10,7 +10,7 @@ title = "Creating a Monthly Log"
 
 +++
 
-**Note**: This is a backdated post. It was actually published in August, but has been dated appropriately to preserve order of posts. It is a follow-up from my [previous attempt](/blog/creating-weekly-log) to create a weekly log, which turned out to be too much of a commitment.
+**Note**: This is a backdated post. It was actually published in August, but has been dated appropriately to preserve order of posts. It is a follow-up from my previous attempt to create a weekly log, which turned out to be too much of a commitment.
 
 I recently got a cool idea from [Constantin's blog](http://thirld.com/blog/). On a more or less monthly basis, he writes about the books, podcasts, and other stuff he reads. I thought that this was great for two reasons -- firstly for keeping track of interesting things which are otherwise too easy to move past and forget, and secondly (for me) building motivation to actually find and engage with more such things, because I get to write about them!
 

@@ -7,7 +7,6 @@ pluralizelisttitles = false
 [permalinks]
   notes = "/blog/:filename/"
   monthly-log = "/blog/:filename/"
-  weekly-log = "/blog/:filename/"
 [taxonomies]
   tag = "tags"
   category = "categories"
