@@ -10,6 +10,8 @@ This website is written using [Sublime Text 3](https://www.sublimetext.com/) and
 
 Icons on the site are courtesy of [Fontello](http://fontello.com/). Typography uses [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) and [Open Sans](https://github.com/FontFaceKit/open-sans).
 
+The profile image on the homepage is from March 2017, and was taken in New Orleans. Credit for the photo goes to [Vasuki](http://vasuki.org).
+
 Lastly, [Git](http://git-scm.com/) is used to publish on Github, where all the code for this website is freely [available](https://github.com/nishanttotla/hugo-blog-skeleton). Please feel free to contribute, via pull requests, issues, or any other way.
 
 
