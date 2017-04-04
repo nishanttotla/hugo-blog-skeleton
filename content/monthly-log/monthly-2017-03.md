@@ -36,7 +36,7 @@ It's a full year of publishing a monthly log! The last time I stuck to something
 
 I've been listening to several podcasts during the last few months, and they should be included in monthly logs. Here are some of the good ones from March.
 
-- [Episode 650: The Business Genius Behind Get Out](http://www.npr.org/sections/money/2017/03/29/521950337/episode-650-the-genius-behind-get-out) [Planet Money] -- An intriguing movie production company called Blumhouse (behind the recent hit "Get Out"), whose business model is to produce a large number of low-budget, and bet on the success of a few.
+- [Episode 650: The Business Genius Behind Get Out](http://www.npr.org/sections/money/2017/03/29/521950337/episode-650-the-genius-behind-get-out) [Planet Money] -- An intriguing movie production company called Blumhouse (behind the recent hit "Get Out"), whose business model is to produce a large number of low-budget movies, and bet on the success of a few. The most notable example is Paranormal Activity.
 
 - [Episode 760: Tax Hero](http://www.npr.org/sections/money/2017/03/22/521132960/episode-760-tax-hero) [Planet Money] -- Why taxes continue to be difficult to file in America, and a look at a dedicated individual's failed attempt to fix that.
 
@@ -48,7 +48,7 @@ I've been listening to several podcasts during the last few months, and they sho
 
 ### Travel
 
-- New Orleans -- My first visit to the famous city, and also first time in the South.
+- New Orleans, Louisiana -- My first visit to the famous city, and also first time in the South.
 
 ### Music
 

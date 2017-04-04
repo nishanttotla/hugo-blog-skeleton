@@ -41,6 +41,10 @@ title = "May 2016"
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240416001&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+### Travel
+
+- I visited Colorado this month! For more than two years now, I've really wanted to go there and never managed to. This time though, I took the initiative before a long weekend and finally did it! I also traveled with friends, something I don't do quite often.
+
 ### Miscellaneous
 
 - [Blockstack](https://blockstack.org/) is the application stack for building decentralized, blockchain-based applications that don't need any servers to operate. Blockstack applications can be built quickly by plugging into Blockstack's services for identity, naming, storage and authentication. I don't quite understand how this works yet, but is very intriguing and will spend time understanding blockchains. [Onename](https://onename.com/) seems to be one such service.
@@ -56,8 +60,6 @@ title = "May 2016"
 - You should follow [Aaminah](https://twitter.com/jaythenerdkid) on Twitter, she often does very intriguing tweetstorms. This month she's done some amazing ones about mental illness. If you've experienced mental illness, or know someone who has, or just want to be helpful, read these: [one](https://twitter.com/jaythenerdkid/status/730131499262062592) / [two](https://twitter.com/jaythenerdkid/status/730133438460727296) / [three](https://twitter.com/jaythenerdkid/status/730420676570566656) / [four](https://twitter.com/jaythenerdkid/status/730434924654804992). Remember to scroll up and wait for all tweets to load.
 
 - I attended [commencement](https://twitter.com/nishanttotla/status/732313216768843776) this month as a Masters student. It was fun, especially since I couldn't attend the one after college.
-
-- I visited Colorado this month! For more than two years now, I've really wanted to go there and never managed to. This time though, I took the initiative before a long weekend and finally did it! I also traveled with friends, something I don't do quite often.
 
 - [#MyDepressionLooksLike](https://twitter.com/hashtag/MyDepressionLooksLike?src=hash) seemed to be trending on Twitter for a little while, with people describing their experience of depression. It was strangely reassuring.
 
