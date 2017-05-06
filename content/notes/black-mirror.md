@@ -25,7 +25,9 @@ I like to call it _Black Mirror_, for more than one reason. It literally is a bl
 colored mirror to begin with, so nothing special there. But for those familiar with
 the TV show of the same name that is "centred around dark and satirical themes that
 examine modern society, particularly with regard to the unanticipated consequences of
-new technologies"[^1], there's more. As I hold up the phone to get a selfie, I've put
-myself up for the world to see. I'm On Air.
+new technologies"[^1], there's more. As I hold up the phone to get a selfie, I'm putting
+myself up for the world to see. But for the world, it's like watching a broadcast --
+relevant one moment, forgotten the next. It's life and meaning for me, but a fleeting
+moment for those flipping channels. On one of them, I'm On Air.
 
 [^1]: Quoting Wikipedia there.

@@ -41,6 +41,10 @@ title = "May 2016"
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240416001&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+### Arts
+
+- [The Domestic Crusaders](http://www.bayareadrama.company/the-domestic-crusaders) was a play I watched on Saturday. This was Bay Area Drama Company's version of the original play by Wajahat Ali, focusing on the Muslim immigrant experience in post 9/11 America.
+
 ### Travel
 
 - I visited Colorado this month! For more than two years now, I've really wanted to go there and never managed to. This time though, I took the initiative before a long weekend and finally did it! I also traveled with friends, something I don't do quite often.
@@ -52,8 +56,6 @@ title = "May 2016"
 - [Project Include](http://projectinclude.org/) is a cool new initiative by some influential tech ladies to address diversity and inclusion in the tech industry, by creating an opt-in system of accountability for startups. The website also has some nice reading material that I'll gradually make my way through.
 
 - [One of my research projects](https://news.ycombinator.com/item?id=11650721) from my first year of grad school made it to the front page of Hacker News for a while on Saturday. It was unexpected, and probably not a big deal, but was cool since I haven't been there before.
-
-- [The Domestic Crusaders](http://www.bayareadrama.company/the-domestic-crusaders) was a play I watched on Saturday. This was Bay Area Drama Company's version of the original play by Wajahat Ali, focusing on the Muslim immigrant experience in post 9/11 America.
 
 - [Track the pulse of the US presidential race](https://blog.twitter.com/2016/track-the-pulse-of-the-us-presidential-race) [Twitter Blog] -- Twitter often makes really neat visualizations using tweet data. This one explores "how the Twitter buzz about each candidate has shifted week over week since September". Look [here](https://interactive.twitter.com/) for more!
 
