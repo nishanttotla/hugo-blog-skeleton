@@ -13,7 +13,7 @@ Today I finally experienced an hour in a floatation tank, also known to some as 
 
 > How will the brain function when all external stimuli are removed?
 
-To achieve the conditions for this, you step into a lightless (and I mean "can't-see-your-hands-at-two-inches-away-dark") and soundproof tank filled to a depth of about 10 inches with high concentration Epsom salt solution. The salt helps you float easily, while the water temperature is kept as close to skin temperature as possible, to give the sense of nothingness. While you're inside, you just float and you're left alone with your thoughts.
+To achieve the conditions for this, you step into a lightless (and I mean "can't-see-your-hands-at-two-inches-away-dark") and soundproof tank filled to a depth of about 10 inches with high concentration Epsom salt solution. The salt helps you float easily, while the water temperature is kept as close to skin temperature as possible, to give the sense of nothingness. While you're inside, you float completely naked and you're left alone with your thoughts.
 
 While this might sound scary or ridiculous to some people, several report health benefits of doing this sort of thing. As far as I'm concerned, the scientific evidence is patchy, but that has never stopped me from trying. As I stepped into the 8 feet by 4 feet tanks at [Float](http://www.thefloatcenter.com/) in Oakland, I did so with an open mind, not really seeking any benefits -- just a challenging experience.
 
