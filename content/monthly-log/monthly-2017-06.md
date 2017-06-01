@@ -3,7 +3,7 @@ authors = []
 categories = []
 date = "2017-06-30T00:27:27-07:00"
 description = "Interesting updates from the past month"
-draft = true
+draft = false
 socialsharing = false
 tags = ["monthly-log"]
 title = "June 2017"
@@ -12,20 +12,40 @@ title = "June 2017"
 
 ### Articles
 
-- [When the Body Attacks the Mind](http://www.theatlantic.com/magazine/archive/2016/07/when-the-body-attacks-the-mind/485564/) [The Atlantic] --
+- [The Difference Between Liberalism and Leftism](https://www.currentaffairs.org/2017/06/the-difference-between-liberalism-and-leftism) [Current Affairs] -- Simple explanation of the difference between liberalism and leftism (mostly focused on America) that you probably already know about, but the key here is an argument for collaboration between liberals and leftists. Quite often, people from either group refuse to work with those of the other group to steer the progressive movement. While the two might be fundamentally irreconcilable, short term collaboration makes sense.
 
-- [Lather, Rinse, Repeat](http://www.caravanmagazine.in/reportage/lather-rinse-repeat-saas-bahu-saga) [The Caravan] --
+- [The Silicon Valley Billionaires Remaking America’s Schools](https://www.nytimes.com/2017/06/06/technology/tech-billionaires-education-zuckerberg-facebook-hastings.html) [The New York Times] -- Silicon Valley billionaires are using their money and reach to directly introduce (opinionated) technology and impact how things work at many of America's public schools. All of this with little oversight and understanding of the long-term risks.
 
-- [Experimenting with Post-Quantum Cryptography](https://security.googleblog.com/2016/07/experimenting-with-post-quantum.html) [Google Security Blog] --
+- [The Gospel of Hard Work, According to Silicon Valley](https://www.wired.com/2017/06/silicon-valley-still-doesnt-care-work-life-balance/) [Wired] -- This is not the first article to talk about the unhealthy workaholic culture in Silicon Valley (and it won't be the last). Also related: [Trickle-down workaholism in startups](https://m.signalvnoise.com/trickle-down-workaholism-in-startups-a90ceac76426).
 
-- [The Ugly Unethical Underside of Silicon Valley](http://fortune.com/silicon-valley-startups-fraud-venture-capital/) [Fortune] --
+- [How Dadaji Became a Feminist](https://jezebel.com/how-dadaji-became-a-feminist-1796147906) [Jezebel] -- Interesting story about the (Indian) author's grandfather, who was and continues to be uncharacteristically progressive for his generation. While it seems like Indians continue down the path of more racism and misogyny, stories like these are reassuring.
 
-- [Intake](https://www.buzzfeed.com/rosalindadams/intake?utm_term=.nyQ9MWJ3X#.vc4jEAg5G) [BuzzFeed] -- This is a long investigative piece.
+- [On Cultural Appropriation](https://medium.com/@SycamoreRed/on-cultural-appropriation-f6a5bb1a92d0) [Medium] -- A good explanation of cultural appropriation for skeptics. It also talks about what differentiates cultural appropriation from cultural exchange. I suggest reading with an open mind.
 
-- [No, India, Domestic Violence Is Not A Fucking “Family Matter”](https://www.buzzfeed.com/richakaulpadte/yeh-toh-family-matter-hai?utm_term=.ldVJ1Bqlb#.deMR67Mmz) [BuzzFeed] --
+- [To Stay in Love, Sign on the Dotted Line](https://www.nytimes.com/2017/06/23/style/modern-love-to-stay-in-love-sign-on-the-dotted-line-36-questions.html) [The New York Times] -- A good column that resonated with me. Romantic relationships are contractual in nature, with a lot of implicit expectations and assumptions baked in. This couple tried to make them more formal and explicit.
+
+- [You Are Now Fully Optimized](https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5) [The Bold Italic] -- Good ol' satire making fun of excessive use of technology never stops being fun.
+
+### Podcasts
+
+Throughout June, Hidden Brain started to explore how cultural stereotypes and biases take shape, and how they affect everything from social behavior to the actions of police to the justice system. These four podcasts are highly recommended in that order.
+
+- [Broken Windows](http://www.npr.org/2017/05/29/530192364/how-a-theory-of-crime-and-policing-was-born-and-went-terribly-wrong) [Hidden Brain] -- The "broken windows" theory of policing suggested that cleaning up the visible signs of disorder -- like graffiti, loitering, panhandling, and prostitution — would prevent more serious crime. This was credited with reducing crime in New York City in the 90s, until cracks began to appear in the apparent effectiveness of the theory, particularly in the way it affected minority communities.
+
+- [The 'Thumbprint Of The Culture': Implicit Bias And Police Shootings](http://www.npr.org/2017/06/05/531578107/the-thumbprint-of-the-culture-implicit-bias-and-police-shootings) [Hidden Brain] -- This episode explores research about implicit bias and how a culture of racism can infect us all. It talks about the famous [Implicit Association Tests](https://implicit.harvard.edu/implicit/takeatest.html) that have had limited impact on an individual level, but turns out that applying the test results at a societal level can give us meaningful predictors.
+
+- [Rap on Trial: How An Aspiring Musician's Words Led To Prison Time](http://www.npr.org/2017/06/12/532633692/rap-on-trial-how-an-aspiring-musicians-words-led-to-prison-time) [Hidden Brain] -- Are rap lyrics that are considered violent treated more unfairly in courts, than country music lyrics that are equally violent? This episode tries to answer this question while following the story of one Olutosin Oduwole who was charged for an unusual crime.
+
+- [Is He Muslim?](http://www.npr.org/2017/06/19/532963059/when-is-it-terrorism-how-the-media-covers-attacks-by-muslim-perpetrators) [Hidden Brain] -- Despite the widespread conservative opinion that mainstream media does not cover acts of terrorism by Muslims enough, turns out that they receive a disproportionately high amount of coverage, especially when compared to similar acts by other groups of people. This episode explores what such coverage does to the psyche of people watching it, and how to counter some of the deleterious effects of it.
+
+### Travel
+
+- Acadia National Park -- I spent two days in Acadia National Park, combining it with the trip to Boston. It was beautiful, and an unusual park because of the intermingling between public and private land. Also my first time in Maine.
+
+- New York City -- I finally spent some real time in New York City! It was a "work vacation", but I explored satisfyingly enough, and also watched several shows. Some of the highlights included watching Kevin Spacey, Trevor Noah, and Stephen Colbert in person.
 
 ### Miscellaneous
 
-- https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world, https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen
+- [How I learned to read -- and trade stocks -- in prison | Curtis "Wall Street" Carroll](https://www.youtube.com/watch?v=F89eycANUrQ) -- The video summary says "Financial literacy isn't a skill -- it's a lifestyle. Take it from Curtis "Wall Street" Carroll. As an incarcerated individual, Caroll knows the power of a dollar. While in prison, he taught himself how to read and trade stocks, and now he shares a simple, powerful message: we all need to be more savvy with our money." It's a short and inspiring TED talk, I recommend watching whenever you have a few minutes to kill.
 
-- https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html
+- [Inside India’s humongous solar plant](http://www.bbc.com/future/gallery/20170619-inside-indias-humungous-solar-plant) -- Some interesting photos and videos from Kamuthi in Tamil Nadu, one of the world’s largest solar power plants.
