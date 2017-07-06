@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/nishanttotla
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nishanttotla.com
+  * I am nishanttotla (https://keybase.io/nishanttotla) on keybase.
+  * I have a public key ASDkYycRrCHw-CZcWKJ8Wyfeg_rjc6KfXpUBp6vpmxrRjQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e4632711ac21f0f8265c58a27c5b27de83fae373a29f5e9501a7abe99b1ad18d0a",
+            "host": "keybase.io",
+            "kid": "0120e4632711ac21f0f8265c58a27c5b27de83fae373a29f5e9501a7abe99b1ad18d0a",
+            "uid": "aa658ceb8c91ad63e959606fdea86b19",
+            "username": "nishanttotla"
+        },
+        "service": {
+            "hostname": "nishanttotla.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1460096748,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1460096625,
+        "hash": "19a56653b2094fb256b4ca4d72d353d8e08329ab3a87682983f5d9787b8fa5a2ecabf3af36024f75e27d9323383eb62332321334100d13e6c645d12f0c4148ca",
+        "seqno": 435251
+    },
+    "prev": "e74188e23946cb758d23de786d9eeddeb58daf0c188aa7495a374b41de0152be",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5GMnEawh8PgmXFiifFsn3oP643Oin16VAaer6Zsa0Y0Kp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTQ2MzI3MTFhYzIxZjBmODI2NWM1OGEyN2M1YjI3ZGU4M2ZhZTM3M2EyOWY1ZTk1MDFhN2FiZTk5YjFhZDE4ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTQ2MzI3MTFhYzIxZjBmODI2NWM1OGEyN2M1YjI3ZGU4M2ZhZTM3M2EyOWY1ZTk1MDFhN2FiZTk5YjFhZDE4ZDBhIiwidWlkIjoiYWE2NThjZWI4YzkxYWQ2M2U5NTk2MDZmZGVhODZiMTkiLCJ1c2VybmFtZSI6Im5pc2hhbnR0b3RsYSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibmlzaGFudHRvdGxhLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NjAwOTY3NDgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2MDA5NjYyNSwiaGFzaCI6IjE5YTU2NjUzYjIwOTRmYjI1NmI0Y2E0ZDcyZDM1M2Q4ZTA4MzI5YWIzYTg3NjgyOTgzZjVkOTc4N2I4ZmE1YTJlY2FiZjNhZjM2MDI0Zjc1ZTI3ZDkzMjMzODNlYjYyMzMyMzIxMzM0MTAwZDEzZTZjNjQ1ZDEyZjBjNDE0OGNhIiwic2Vxbm8iOjQzNTI1MX0sInByZXYiOiJlNzQxODhlMjM5NDZjYjc1OGQyM2RlNzg2ZDllZWRkZWI1OGRhZjBjMTg4YWE3NDk1YTM3NGI0MWRlMDE1MmJlIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMIprYU5fw2Wi3pWTRgY5htGK72aOseu77Epe8oPDXnyXkdnq2gOMz+aOpMDhkjv+Ak4WnH6jorKNpKnk3kceAWoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nishanttotla
+
+==================================================================
