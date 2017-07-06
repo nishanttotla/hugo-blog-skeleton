@@ -3,7 +3,7 @@ authors = []
 categories = []
 date = "2017-07-31T23:14:10-04:00"
 description = "Interesting updates from the past month"
-draft = true
+draft = false
 socialsharing = false
 tags = ["monthly-log"]
 title = "July 2017"
@@ -11,6 +11,8 @@ title = "July 2017"
 +++
 
 ### Articles
+
+- [San Francisco is Burning](http://www.gq.com/story/san-francisco-is-burning) [GQ] -- COunter: https://modernluxury.com/san-francisco/story/gqs-san-francisco-burning-story-massive-troll-some-shoddy-reporting
 
 - [When the Body Attacks the Mind](http://www.theatlantic.com/magazine/archive/2016/07/when-the-body-attacks-the-mind/485564/) [The Atlantic] --
 
