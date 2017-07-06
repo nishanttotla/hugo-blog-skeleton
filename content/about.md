@@ -7,15 +7,16 @@ nocomment = true
 
 I use this website primarily to record and share my thoughts, ideas, life events, and learnings. Some of the things I write about include technology, travel, mental health, company culture, and social justice. Here's what you can find on here
 
-- [Blog](/blog) -- Longer articles that I've put more thought into.
+- [Blog](/blog) -- Long-form articles about my opinions, travel, or anything else I find worth writing about.
 - [Monthly Log](/monthly-log) -- A monthly summary of readings, music, and other interesting things.
-- [Notes](/notes) -- Short blurbs that you can totally skip if you want.
+- [Notes](/notes) -- Short blurbs.
+- [Technology](/technology) -- Posts related to computer science-y things or the work I do.
 
 If you want to reach me, send <a title="Email" href="mailto:nishanttotla@gmail.com">email<i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla">tweet<i class="icon-twitter"></i></a>. My public key is [7EA5 781C 9B3D 0C19](https://keybase.io/nishanttotla).
 
 For recruiters: I do entertain genuinely interesting proposals, but please read [this](/recruiting) before contacting me.
 
-### About Me
+### Personal
 
 I live in Berkeley, work at Docker in San Francisco. I used to be a Programming Languages PhD student at UC Berkeley, but dropped out in 2015.
 

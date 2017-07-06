@@ -25,36 +25,21 @@
         </div>
 
         <div class="six columns recent">
-          <h3>News</h3>
-            <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just did my first acting class and it might be the most fun thing I&#39;ve done in a while.</p>&mdash; Nishant Totla (@nishanttotla) <a href="https://twitter.com/nishanttotla/status/855918044241043456">April 22, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-            <a class="button button-primary" href="https://twitter.com/nishanttotla/timelines/677716044539174914" target="_blank">More News</a>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="six columns recent">
-          <h3>Recent Notes</h3>
+          <h3>Other Content</h3>
           <ul>
-            {{ range first 3 (where .Data.Pages "Section" "notes") }}
             <li>
-              <a href="{{ .RelPermalink }}" class="title">{{ .Title }}</a>
-              <p class="desc">{{ .Description }}</p>
+              <a href="/monthly-log" class="title">Monthly Log</a>
+              <p class="desc">Interesting updates on a monthly basis</p>
             </li>
-            {{ end }}
+            <li>
+              <a href="/notes" class="title">Notes</a>
+              <p class="desc">Short ideas and observations</p>
+            </li>
+            <li>
+              <a href="/technology" class="title">Technology</a>
+              <p class="desc">Work etc.</p>
+            </li>
           </ul>
-          <a class="button" href="/notes">All Notes</a>
-        </div>
-
-        <div class="six columns recent">
-          <h3>Currently Reading</h3>
-          <img src="/images/book-covers/india-after-gandhi.jpg" style="width: 60%; max-width:100%; margin-right: 10px">
-          <!-- <img src="/images/book-covers/inda-after-gandhi.jpg" style="width: 50%; max-width:100%; float: left; margin-right: 10px"> -->
-          <!-- <img src="/images/book-covers/zen.png" style="width: 25%; max-width:100%;"> -->
-          <!-- <img src="/images/book-covers/omnivores-dilemma.jpg" style="width: 25%; max-width:100%;"> -->
-
-          <a class="button button-primary" href="https://www.goodreads.com/user/show/2814324-nishant-totla" target="_blank">More books</a>
         </div>
       </div>
   </div>
