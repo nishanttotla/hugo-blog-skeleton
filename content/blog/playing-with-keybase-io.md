@@ -1,6 +1,6 @@
 +++
 authors = []
-categories = ["Technical"]
+categories = []
 date = "2016-04-11T10:10:15-07:00"
 description = "My initial experience with trying out keybase.io"
 draft = false

@@ -1,6 +1,6 @@
 +++
 authors = []
-categories = ["Travel", "Technical"]
+categories = ["Travel"]
 date = "2016-11-15T03:32:11-05:00"
 description = "Some notes from my recently concluded conference travel"
 draft = false

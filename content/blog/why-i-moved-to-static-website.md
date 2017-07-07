@@ -1,5 +1,5 @@
 +++
-categories = ["Technical"]
+categories = []
 date = "2016-03-14T00:52:35-07:00"
 description = "Why I decided to get rid of my old WordPress site and use Hugo instead"
 draft = false

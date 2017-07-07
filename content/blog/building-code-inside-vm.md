@@ -1,5 +1,5 @@
 +++
-categories = ["Technical"]
+categories = []
 date = "2016-03-11T13:35:12-08:00"
 description = "A guide to writing code in your Mac and building inside a VM"
 draft = false

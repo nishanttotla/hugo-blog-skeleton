@@ -1,5 +1,5 @@
 +++
-categories = ["Technical"]
+categories = []
 date = "2016-01-02T16:25:04-08:00"
 description = "An evolving collection of material on distributed systems"
 draft = false

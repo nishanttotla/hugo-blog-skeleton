@@ -1,6 +1,6 @@
 +++
 authors = []
-categories = ["Technical"]
+categories = []
 date = "2016-04-13T14:18:26-07:00"
 description = "Using Keybase? Start signing your Git commits with a GPG key"
 draft = false
