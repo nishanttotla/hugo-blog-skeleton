@@ -17,4 +17,4 @@ Then open a browser and visit `http://localhost:1313` to see the site.
 ### Notes
 
 - After making changes to any CSS/Javascript files, you'll need to run `gulp` in the `/themes/skeleton` directory for minimization.
-- Custom fonts from [Fontello](http://fontello.com/) are used on the site. Instructions for making changes to those will be added in the near future.
+- Custom fonts from [Fontello](http://fontello.com/) are used on the site. Instructions for making changes to those are in the README in the theme directory.
