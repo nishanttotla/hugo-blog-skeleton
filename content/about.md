@@ -9,8 +9,8 @@ I use this website primarily to record and share my thoughts, ideas, life events
 
 - [Blog](/blog) -- Long-form articles about my opinions, travel, or anything else I find worth writing about.
 - [Monthly Log](/monthly-log) -- A monthly summary of readings, music, and other interesting things.
-- [Notes](/notes) -- Short blurbs.
-- [Technical](/technical) -- Posts related to computer science-y things or the work I do.
+- [Notes](/notes) -- Short blurbs that I didn't want to put too much thought into.
+- [SciTech](/scitech) -- Posts related to academic or computer science-y things and the work I do.
 
 If you want to reach me, send <a title="Email" href="mailto:nishanttotla@gmail.com">email<i class="icon-gmail"></i></a> or <a title="Twitter" href="http://twitter.com/home?status=@nishanttotla">tweet<i class="icon-twitter"></i></a>. My public key is [7EA5 781C 9B3D 0C19](https://keybase.io/nishanttotla).
 
