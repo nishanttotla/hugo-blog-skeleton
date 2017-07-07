@@ -161,6 +161,30 @@
       "css": "edit",
       "code": 59417,
       "src": "typicons"
+    },
+    {
+      "uid": "85017ab6ca074831a8de771b40e9640c",
+      "css": "camera",
+      "code": 59419,
+      "src": "entypo"
+    },
+    {
+      "uid": "297fe6c2ef08198b03d706ba52f51b7f",
+      "css": "flight",
+      "code": 59418,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5f89d009e91c94c7c9be2f8711d7a2eb",
+      "css": "theatre",
+      "code": 59450,
+      "src": "maki"
+    },
+    {
+      "uid": "98687378abd1faf8f6af97c254eb6cd6",
+      "css": "cog-alt",
+      "code": 59420,
+      "src": "fontawesome"
     }
   ]
 }

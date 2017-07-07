@@ -21,7 +21,7 @@ Font license info
 
 ## Font Awesome
 
-   Copyright (C) 2012 by Dave Gandy
+   Copyright (C) 2016 by Dave Gandy
 
    Author:    Dave Gandy
    License:   SIL ()
@@ -62,5 +62,14 @@ Font license info
    Author:    MFG Labs
    License:   SIL (http://scripts.sil.org/OFL)
    Homepage:  http://www.mfglabs.com/
+
+
+## Maki
+
+   Copyright (C) Mapbox, LCC
+
+   Author:    Mapbox
+   License:   BSD (https://github.com/mapbox/maki/blob/gh-pages/LICENSE.txt)
+   Homepage:  http://mapbox.com/maki/
 
 
