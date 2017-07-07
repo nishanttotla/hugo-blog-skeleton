@@ -1,9 +1,10 @@
 +++
-authors = []
+date = {{ .Date }}
 categories = []
-description = "Interesting updates from the past month"
-draft = true
-socialsharing = false
 tags = ["monthly-log"]
-
+draft = true
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+description = "Interesting updates from the past month"
+authors = []
+socialsharing = false
 +++

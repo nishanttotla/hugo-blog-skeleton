@@ -1,8 +1,10 @@
 +++
-description = ""
-tags = []
+date = {{ .Date }}
 categories = []
+tags = []
 draft = true
-socialsharing = true
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+description = ""
 authors = []
+socialsharing = true
 +++
