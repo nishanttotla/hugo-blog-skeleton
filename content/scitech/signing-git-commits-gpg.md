@@ -8,6 +8,7 @@ socialsharing = true
 tags = ["security", "git", "github", "keybase"]
 title = "Signing Git Commits with a GPG Key"
 mastimage = "/images/keybase-io/verified-commits.png"
+aliases = ["/blog/signing-git-commits-gpg/"]
 
 +++
 

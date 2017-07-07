@@ -8,6 +8,7 @@ socialsharing = true
 tags = ["security", "keybase"]
 title = "Playing with Keybase.io"
 mastimage = "/images/keybase-io/pgp-xkcd.png"
+aliases = ["/blog/playing-with-keybase-io/"]
 
 +++
 

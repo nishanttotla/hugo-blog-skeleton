@@ -6,7 +6,7 @@ draft = false
 socialsharing = true
 tags = ["programming", "development"]
 title = "Building Code Inside a VM"
-aliases = ["/articles/building-code-inside-vm/"]
+aliases = ["/articles/building-code-inside-vm/", "/blog/building-code-inside-vm/"]
 
 +++
 
