@@ -5,5 +5,4 @@ categories = ["Uncategorized"]
 draft = true
 socialsharing = true
 authors = []
-series = ["non-technical"]
 +++

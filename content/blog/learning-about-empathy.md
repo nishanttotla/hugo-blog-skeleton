@@ -6,7 +6,6 @@ draft = false
 socialsharing = true
 tags = ["empathy", "thoughts"]
 title = "Learning about Empathy"
-series = ["non-technical"]
 
 +++
 

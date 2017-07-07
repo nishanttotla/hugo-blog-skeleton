@@ -4,7 +4,6 @@ categories = ["Personal"]
 date = "2017-05-31T13:32:52-07:00"
 description = "Here's how people reacted after I colored my hair red"
 draft = false
-series = ["non-technical"]
 socialsharing = true
 tags = ["hair", "color"]
 title = "Red Hairing"

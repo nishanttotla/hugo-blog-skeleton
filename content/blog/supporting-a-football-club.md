@@ -7,7 +7,6 @@ socialsharing = true
 tags = ["arsenal", "football"]
 title = "Supporting a Football Club"
 aliases = ["/blog/2015/10/26/supporting-a-football-club/"]
-series = ["non-technical"]
 
 +++
 

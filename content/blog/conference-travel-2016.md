@@ -4,7 +4,6 @@ categories = ["Travel", "Technical"]
 date = "2016-11-15T03:32:11-05:00"
 description = "Some notes from my recently concluded conference travel"
 draft = false
-series = ["non-technical"]
 socialsharing = true
 tags = ["conferences", "travel", "software"]
 title = "Conference Travel in 2016"

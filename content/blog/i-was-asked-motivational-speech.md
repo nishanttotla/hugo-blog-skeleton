@@ -4,7 +4,6 @@ categories = ["Uncategorized"]
 date = "2017-01-12T15:29:03+05:30"
 description = "What I decided to say instead"
 draft = false
-series = ["non-technical"]
 socialsharing = true
 tags = ["speech", "privilege", "success"]
 title = "I was Asked to Give a Motivational Speech"

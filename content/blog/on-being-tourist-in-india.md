@@ -4,7 +4,6 @@ categories = ["Travel", "Personal"]
 date = "2017-01-23T12:59:04+05:30"
 description = "I tried a different approach during my recent India trip"
 draft = false
-series = ["non-technical"]
 socialsharing = true
 tags = ["travel", "India", "thoughts"]
 title = "On Being a Tourist in India"
