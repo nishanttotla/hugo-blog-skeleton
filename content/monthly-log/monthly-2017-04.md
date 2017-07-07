@@ -7,6 +7,7 @@ draft = false
 socialsharing = false
 tags = ["monthly-log"]
 title = "April 2017"
+aliases = ["/blog/monthly-2017-04/"]
 
 +++
 
