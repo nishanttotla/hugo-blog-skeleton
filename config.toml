@@ -5,7 +5,6 @@ pygmentsUseClasses = true
 theme = "skeleton"
 pluralizelisttitles = false
 [permalinks]
-  notes = "/blog/:filename/"
   monthly-log = "/blog/:filename/"
 [taxonomies]
   tag = "tags"

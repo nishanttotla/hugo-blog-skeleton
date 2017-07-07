@@ -7,6 +7,7 @@ draft = false
 socialsharing = false
 tags = ["words"]
 title = "Adronitis"
+aliases = ["/blog/adronitis/"]
 
 +++
 

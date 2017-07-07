@@ -7,6 +7,7 @@ draft = false
 socialsharing = false
 tags = ["lifehacks", "learning"]
 title = "So Who Wants to Volunteer?"
+aliases = ["/blog/who-wants-to-volunteer/"]
 
 +++
 

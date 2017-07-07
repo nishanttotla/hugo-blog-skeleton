@@ -7,6 +7,7 @@ draft = false
 socialsharing = false
 tags = ["thoughts"]
 title = "Deciding to Stop"
+aliases = ["/blog/deciding-to-stop/"]
 
 +++
 

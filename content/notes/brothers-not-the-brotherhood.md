@@ -7,6 +7,7 @@ draft = false
 socialsharing = false
 tags = ["quotes"]
 title = "The Brothers, Not the Brotherhood"
+aliases = ["/blog/brothers-not-the-brotherhood/"]
 
 +++
 

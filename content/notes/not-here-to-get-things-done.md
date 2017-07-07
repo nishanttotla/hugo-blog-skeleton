@@ -7,6 +7,7 @@ draft = false
 socialsharing = false
 tags = ["work", "programming"]
 title = "I'm Not Here to Get Things Done"
+aliases = ["/blog/not-here-to-get-things-done/"]
 
 +++
 

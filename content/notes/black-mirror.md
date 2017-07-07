@@ -7,6 +7,7 @@ draft = false
 socialsharing = false
 tags = ["photography"]
 title = "Black Mirror"
+aliases = ["/blog/black-mirror/"]
 
 +++
 
