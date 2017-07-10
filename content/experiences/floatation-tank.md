@@ -21,6 +21,11 @@ While this might sound scary or ridiculous to some people, several report health
 
 Stepping into the tank and closing the hatch was honestly scary. I was expecting this, but I had to be careful not to panic for any reason (there's no threat in the tank, just in the head). Once I lay down and relaxed my neck, things felt under control, barring the strange feeling that I was sliding on the water surface and might lose orientation of where the exit was. Overall, it took several minutes to feel physically settled. Later on this wasn't a noticeable issue.
 
+<figure>
+    <img data-action="zoom" src="/images/floatation-tank.jpg" style="width:40%;"></img>
+    <figcaption>The tank I was inside</figcaption>
+</figure>
+
 ### Second Impression
 
 After physical comfort had been achieved, I distinctly remember how hard it was to tell how much time had passed. Things felt as slow or fast as my thoughts made them. At first I tried to think about the lingering doubts and questions in life, but soon decided to stop being deliberate. Over time, I slipped into a half-asleep state where I could tell I was awake, but only barely so. I find that state pleasurable and have the privilege of not being in a significantly depressed state right now, which meant I didn't have to worry about anxiety or a panic attack. Another way I would describe my time in the tank would be the interplay between deep and light sleep. I found myself "dozing off", only to suddenly "wake up" with a jerk a few minutes later.
