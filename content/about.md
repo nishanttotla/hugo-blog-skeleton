@@ -9,6 +9,7 @@ I use this website primarily to record and share my thoughts, ideas, life events
 
 - [Blog](/blog) -- Long-form articles about my opinions, travel, or anything else I find worth writing about.
 - [Monthly Log](/monthly-log) -- A monthly summary of readings, music, and other interesting things.
+- [Experiences](/experiences) -- I like to explore and travel. This is where I write about it.
 - [Notes](/notes) -- Short blurbs that I didn't want to put too much thought into.
 - [SciTech](/scitech) -- Posts related to academic or computer science-y things and the work I do.
 
