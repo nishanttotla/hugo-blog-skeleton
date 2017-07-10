@@ -23,14 +23,11 @@
             {{ end }}
 
             {{ $Site := .Site }}
-            {{ if .Params.tags }}
+            {{ if .Section }}
                 <span class="post-tag"> in </span>
-                {{ range .Params.tags }}
-                <a class="post-tag post-tag-{{ . | urlize }}" href="{{ $Site.BaseURL}}tags/{{ . | urlize }}">
-                  <i class="icon-tag"></i>{{ . }}</a>
-                {{ end }}
+                <a class="post-tag" href="/{{ .Section }}">
+                  <i class="icon-list-bullet"></i>{{ .Section }}</a>
             {{ end }}
-
          </div>
 
 			{{ if .Params.bannerinline }}
