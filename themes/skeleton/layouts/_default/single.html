@@ -1,74 +1,64 @@
 {{ partial "header.html" . }}
 
 <body>
-      {{ partial "singletop.html" . }}
+{{ partial "singletop.html" . }}
 
   <div class="container">
     <div class="row">
-
       <section>
-            <h1 class="post-title">
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </h1>
+        <h1 class="post-title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h1>
 
-          <div class="post-content-meta">
+        <div class="post-content-meta">
+          {{ if not .Params.nodate }}
+            <i class="icon-calendar"></i>
+            <span class="post-date">
+              <span class="post-date-month">{{ .Date.Format "January" }}</span>
+              <span class="post-date-day"> {{ .Date.Format "2" }}, </span>
+              <span class="post-date-year">{{ .Date.Format "2006" }}</span>
+            </span>
+          {{ end }}
 
-            {{ if not .Params.nodate }}
-              <i class="icon-calendar"></i>
-              <span class="post-date">
-                <span class="post-date-month">{{ .Date.Format "January" }}</span>
-                <span class="post-date-day"> {{ .Date.Format "2" }}, </span>
-                <span class="post-date-year">{{ .Date.Format "2006" }}</span>
-              </span>
-            {{ end }}
+          {{ $Site := .Site }}
+          {{ if .Section }}
+              <span class="post-tag"> in </span>
+              <a class="post-tag" href="/{{ .Section }}">
+                <i class="icon-list-bullet"></i>{{ .Section }}</a>
+          {{ end }}
+        </div>
+  			{{ if .Params.bannerinline }}
+  			<img src="{{ .Params.bannerinline }}" class="pure-img content-banner-image-inline" />
+  			{{ end }}
 
-            {{ $Site := .Site }}
-            {{ if .Section }}
-                <span class="post-tag"> in </span>
-                <a class="post-tag" href="/{{ .Section }}">
-                  <i class="icon-list-bullet"></i>{{ .Section }}</a>
-            {{ end }}
-         </div>
+        <div class="post-content">
+          {{ .Content }}
+          {{ if .Params.authors }}
+              - {{ delimit .Params.authors ", " }}
+          {{ else }}
+              - {{ .Site.Params.authorSignature }}
+          {{ end }}
+        </div>
 
-			{{ if .Params.bannerinline }}
-				<img src="{{ .Params.bannerinline }}" class="pure-img content-banner-image-inline" />
-			{{ end }}
-
-      <div class="post-content">
-        {{ .Content }}
-        {{ if .Params.authors }}
-            - {{ delimit .Params.authors ", " }}
-        {{ else }}
-            - {{ .Site.Params.authorSignature }}
-        {{ end }}
-      </div>
-
-      {{ .Params.testfield }}
-
-			{{ if .Params.socialsharing }}
-		    	{{ partial "socialsharing.html" . }}
-		  {{ end }}
+  			{{ if .Params.socialsharing }}
+  		    	{{ partial "socialsharing.html" . }}
+  		  {{ end }}
       </section>
-      </div>
+    </div>
 
-      <div class="row paging">
-			{{ if not .Params.nopaging }}
-          {{ if .PrevInSection }}
-          <div class="six columns">
-            <a class="paging-link" href="{{ .PrevInSection.RelPermalink }}"><i class="icon-left-open"></i> {{ .PrevInSection.Title  }}</a>
-          </div>
-          {{ end }}
-
-					{{ if .NextInSection }}
-          <div class="paging-newer six columns">
-            <a class="paging-link" href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }} <i class="icon-right-open"></i></a>
-          </div>
-          {{ end }}
-
+    <div class="row paging">
+		  {{ if not .Params.nopaging }}
+        {{ if .PrevInSection }}
+        <div class="six columns">
+          <a class="paging-link" href="{{ .PrevInSection.RelPermalink }}"><i class="icon-left-open"></i> {{ .PrevInSection.Title  }}</a>
+        </div>
+        {{ end }}
+				{{ if .NextInSection }}
+        <div class="paging-newer six columns">
+          <a class="paging-link" href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }} <i class="icon-right-open"></i></a>
+        </div>
+        {{ end }}
       {{ end }}
-       </div>
-
-
     </div>
   </div>
 
@@ -89,9 +79,9 @@
 		</script>
 	{{ end }}
 
-    {{ partial "analytics.html" . }}
-    </div>
-      {{ partial "footer.html" . }}
+  {{ partial "analytics.html" . }}
+  </div>
+    {{ partial "footer.html" . }}
   </div>
   {{ partial "bodyend.html" . }}
 </body>
