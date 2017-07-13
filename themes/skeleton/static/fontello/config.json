@@ -185,6 +185,12 @@
       "css": "cog-alt",
       "code": 59420,
       "src": "fontawesome"
+    },
+    {
+      "uid": "96ea1be71f597a5bdfc8f791ada4f651",
+      "css": "archive",
+      "code": 59421,
+      "src": "entypo"
     }
   ]
 }
