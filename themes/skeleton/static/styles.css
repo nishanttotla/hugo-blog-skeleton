@@ -1086,7 +1086,7 @@ nav ul li {
   list-style-type: none;
   display: inline-block;
   font-size: 1.7rem;
-  margin: 0 2rem;
+  margin: 0 1.5rem;
 }
 
 nav ul {
@@ -1096,7 +1096,7 @@ nav ul {
 
 .post-header h4 {
   text-align: center;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: 600;
@@ -1375,6 +1375,20 @@ pre, .highlight pre {
   }
 }
 
+/* Larger than phablet but ~smaller than tablet */
+@media (min-width: 550px) and (max-width: 700px) {
+  /* HEADER SECTION */
+  nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 1.8rem;
+    margin: 0 1.1rem;
+  }
+
+  .post-header h4 {
+    font-size: 1.5rem;
+  }
+}
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #8f5902; font-style: italic } /* Comment */
 /*.highlight .err { color: #a40000; border: 1px solid #ef2929 } Error */
