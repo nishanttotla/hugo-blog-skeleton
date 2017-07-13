@@ -6,6 +6,8 @@ draft = true
 tags = ["sample", "blogging", "cool", "react"]
 title = "Sample Post"
 socialsharing = true
+bannerimage = "/images/2016-year-in-review/mendocino.jpg"
+bannerimagecaption = "Untouched beach in Mendocino"
 
 +++
 

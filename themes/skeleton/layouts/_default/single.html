@@ -2,7 +2,10 @@
 
 <body>
 {{ partial "singletop.html" . }}
-
+  {{ if .Params.bannerimage }}
+    <img src="{{ .Params.bannerimage }}" style="width:100%;" />
+    <figcaption>{{ .Params.bannerimagecaption }}</figcaption>
+  {{ end }}
   <div class="container">
     <div class="row">
       <section>
@@ -27,9 +30,6 @@
                 <i class="icon-list-bullet"></i>{{ .Section }}</a>
           {{ end }}
         </div>
-  			{{ if .Params.bannerinline }}
-  			<img src="{{ .Params.bannerinline }}" class="pure-img content-banner-image-inline" />
-  			{{ end }}
 
         <div class="post-content">
           {{ .Content }}
