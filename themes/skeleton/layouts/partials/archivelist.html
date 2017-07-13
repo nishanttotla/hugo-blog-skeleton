@@ -1,6 +1,6 @@
 {{ range .Site.Pages }}
-  <!-- only show if it's a page and has a section associated with it -->
-  {{ if and (.IsPage) (.Section) }}
+  <!-- only show if it's a page and has a section associated with it, but the section should not be "archive" -->
+  {{ if and (.IsPage) (.Section) (not (eq .Section "archive" )) }}
     <div class="row">
       <div class="post-meta two columns">
         {{ if not .Params.nodate }}
