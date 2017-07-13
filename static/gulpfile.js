@@ -1,8 +1,8 @@
 var gulp = require('gulp');
-var pngmin = require('gulp-pngmin');
+    imagemin = require('gulp-imagemin');
 
 gulp.task('default', function() {
-  gulp.src('images/*.png')
-      .pipe(pngmin())
+  gulp.src('images/*.jpg')
+      .pipe(imagemin())
       .pipe(gulp.dest('images'))
 });
