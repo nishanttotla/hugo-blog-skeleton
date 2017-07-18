@@ -39,7 +39,7 @@ Travel wise, 2015 was a decent year. I managed to stick to my resolution of visi
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Goodbye Hawaii, it&#39;s been a meaningful trip! Time to go back to normal life and start afresh. <a href="https://t.co/NzS1Pnftk4">pic.twitter.com/NzS1Pnftk4</a></p>&mdash; Traveler Boy (@nrt_travel) <a href="https://twitter.com/nrt_travel/status/682771096320409602">January 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-There were a few other short trips too, but not nearly enough! The overwhelming guilt that comes from not being productive is a big adversary of travel, and I’ve been trying hard to control it. Still, I’m proud and happy for the travel I managed to do, but looking forward to all the more that I will do in 2016.
+There were a few other short trips too, but not nearly enough! The overwhelming guilt that comes from not being productive is a big hurdle for travel, and I’ve been trying hard to control it. Still, I’m proud and happy for the travel I managed to do, but looking forward to all the more that I will do in 2016.
 
 ### Health
 

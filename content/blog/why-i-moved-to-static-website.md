@@ -14,7 +14,7 @@ As some of you know, I've maintained a personal website/blog for a few years now
 
 ### Static Site Generators
 
-I was familiar with static site generators -- tools that generate your website for you using some basic definitions, but never thought they could work for me. Around two months ago, I started exploring further, and found that the ecosystem had [grown a lot](https://www.staticgen.com/) since I last checked. Still, it seemed like a lot of work with unclear advantages, until [Prakhar](https://twitter.com/prakharsriv9) fully convinced me to take the plunge.
+I was familiar with static site generators -- tools that generate your website for you using some basic templating, but never thought they could work for me. Around two months ago, I started exploring further, and found that the ecosystem had [grown a lot](https://www.staticgen.com/) since I last checked. Still, it seemed like a lot of work with unclear advantages, until [Prakhar](https://twitter.com/prakharsriv9) fully convinced me to take the plunge.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nishanttotla">@nishanttotla</a> I whole-heartedly support this! No DB, editing in your fav text-editor and painless + free deployments. It can&#39;t get better.</p>&mdash; Prakhar Srivastav (@prakharsriv9) <a href="https://twitter.com/prakharsriv9/status/697481406956572672">February 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -23,7 +23,7 @@ The end result is this website, served using the static site generator [Hugo](ht
 
 ### Advantages of a Static Site
 
-- **Speed** - Static HTML can be loaded really fast, and is easy to cache. By comparison, WordPress uses a database to serve content that adds latency, and caching is much more complex. Faster websites are also more likely to have [better search ranking](https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html).
+- **Speed** - Static HTML can be loaded really fast, and is easy to cache. By comparison, WordPress uses a database to serve content that adds latency, and caching is much more complex. Faster websites are more likely to have [better search ranking](https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html).
 - **Security** - WordPress has been known to have several security vulnerabilities, and generally has a wider attack surface since it needs a database and server to work. I'm no security expert, and always worried about exposing my site to attacks. BlueHost in addition constantly sent me emails about security updates, many of which I didn't fully understand or want to care about. By contrast, a static site can be hosted practically anywhere (which for me means more secure locations like Github pages or AWS).
 - **Cost** - A HUGE difference! A BlueHost web hosting account cost me about $50 per year, in addition to ~$10 for the domain name. Now I just pay for the domain, while web hosting is free with Github pages.
 - **Portability** - Static HTML can be hosted literally anywhere with minimal to no setup. This makes it easy to not get locked into to a specific hosting provider or environment, and move quickly if necessary. Granted that WordPress also provides portability, but it's not equally easy to set up everywhere.
@@ -40,14 +40,14 @@ Given that Hugo is relatively new, it might take more work to get what you want.
 
 ### Static Sites may not be for Everyone
 
-All that said, if this got you excited, and you want to build your own static site, there are a few caveats to consider.
+If the above got you excited, and you want to build your own static site, there are a few caveats to consider.
 
 - Creating a good static site is likely to be more work, and takes a certain amount of comfort with web design. You also need to set up your own workflow which might be hard if you're unfamiliar with programming tools.
 - Static websites won't offer full dynamic functionality the way a WordPress site can, so you need to think about what you really need.
 - The overall writing experience might not appeal to you after all, if you prefer using WYSIWYG editors and writing tools (although considering the power of static site generators and modern text editors, I'm not unhappy).
 - It can be difficult to use other devices to write posts, depending on how complex it is to set up the development environment. Hugo makes it easy, but there can still be challenges with versioning, or when extra tools are needed. At the very least, editing on the phone will be difficult (unlike WordPress).
 
-### In Conclusion
+### Conclusion
 
 I don't have much more to say, except that to write a blog post now, all I need to do is type
 ```
