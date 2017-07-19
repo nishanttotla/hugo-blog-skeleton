@@ -3,4 +3,4 @@
 <meta name="twitter:creator" content="@{{ .Site.Params.authorTwitter }}">
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-<meta name="twitter:image" content="{{ if .Params.metaimage }}{{ .Params.metaimage }}{{ else }}{{ .Site.Params.coverImage }}{{ end }}"/>
+<meta name="twitter:image" content="{{ if .Params.metaimage }}{{ .Site.BaseURL }}{{ .Params.metaimage }}{{ else }}{{ .Site.Params.coverImage }}{{ end }}"/>

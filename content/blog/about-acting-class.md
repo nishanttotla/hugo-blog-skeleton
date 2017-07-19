@@ -9,7 +9,7 @@ tags = ["acting", "theater"]
 title = "About Acting Class"
 bannerimage = "/images/acting-class.jpg"
 bannerimagecaption = "After performing the final scene"
-metaimage = "/images/acting-class.jpg"
+metaimage = "images/acting-class.jpg"
 +++
 
 I've been meaning to try acting for a really long time, since college in fact. Back then I never managed to get started and it just became one of those bucket list items.
