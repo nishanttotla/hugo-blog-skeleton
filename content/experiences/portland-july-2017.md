@@ -11,7 +11,7 @@ bannerimage = "/images/experiences/portland-japanese-garden.jpg"
 bannerimagecaption = "Portland Japanese Garden"
 +++
 
-> #### July 14-16, 2017 <i class="icon-flight"></i> 3 days
+> #### July 14 -- 16, 2017 <i class="icon-flight"></i> 3 days
 
 I was in Portland this weekend for a friend's "bachelorette party". Quotes because this
 wasn't a traditional bachelorette party at all (ask me why). We spent three days in
