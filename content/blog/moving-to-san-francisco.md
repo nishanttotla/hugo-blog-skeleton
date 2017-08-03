@@ -12,8 +12,8 @@ socialsharing = true
 Today, I officially completed my move to San Francisco, giving up keys to my beloved
 apartment in Berkeley. When I moved to Berkeley on my birthday in 2012, I'd started
 out as an excited young person looking forward to great experiences and a successful
-time in the PhD program. Things turned out to be quite different in reality, but the
-city has had a significant impact on my preferences, identity, and world view.
+time in the PhD program. Things turned out to be quite different in reality, but
+Berkeley has had a significant impact on my preferences, identity, and world view.
 In the meantime, I battled severe depression, dropped out of the PhD program, got a
 job that I don't quite hate, and also managed to recover from the depression
 at least enough to be regularly functional.
@@ -37,19 +37,19 @@ a hoarder for much of my life, and this reflected in the vast amount of junk
 I had accumulated living in my large apartment. I'm moving to a studio now,
 so space comes at a premium, which I expect will keep me disciplined.
 
-This is going to be my first time living in a city independently (i.e. not
+This is going to be my first time living in a big city independently (i.e. not
 in a college campus or such). I'm looking forward to the rush of that lifestyle
 and figuring out if it suits me. Given where I am in life right now, I think
 it will. Since there was no particular pressure to move, I had the luxury of
 picking the right apartment and neighborhood, so I'm pleased about being able
 to experience the city my way.
-I've realized over the last year or so is that the cultural fabric of
+I've realized over the last year or so that the cultural fabric of
 the place I live in matters a lot to me. This is directly related to the kind of
 people that form my community. In Berkeley, this has been a healthy mix of
 people of various identities who have taught me a lot.
 San Francisco might be very different, but I'm both nervous and
-looking forward to see who I meet in the city. Of course, I'm not going
-to let things change with my people in Berkeley.
+eager to see who I meet in the city. Of course, I'm not going
+to let connections with my people in Berkeley get affected.
 
 In conclusion, I will admit that I have bittersweet feelings about leaving Berkeley,
 but it had to be done. It's been a remarkable five years that have shaped me in
