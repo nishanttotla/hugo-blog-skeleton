@@ -7,7 +7,7 @@ title = "First Total Solar Eclipse (August 2017)"
 description = "Experiencing totality for the first time in Independence, Oregon"
 authors = []
 socialsharing = true
-metaimage = "images/eclipse-totality-or-bust.jpg"
+metaimage = "images/experiences/eclipse-totality-or-bust.jpg"
 +++
 
 Was the hype worth it? YES! A hundred times YES! Nothing could really have prepared
