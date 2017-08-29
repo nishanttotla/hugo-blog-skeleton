@@ -20,7 +20,7 @@ For recruiters: I do entertain genuinely interesting proposals, but please read 
 
 ### Personal
 
-I live in Berkeley, work at Docker in San Francisco. I used to be a Programming Languages PhD student at UC Berkeley, but dropped out in 2015.
+I live in San Francisco, California, and work at Docker. I used to be a Programming Languages PhD student at UC Berkeley, but dropped out in 2015.
 
 <img data-action="zoom" src="/images/cinderella_half.jpg" style="width:30%; float: left; margin-right: 20px; margin-bottom: 15px; border-radius: 6px;"></img>
 
