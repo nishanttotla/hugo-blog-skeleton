@@ -4,7 +4,7 @@ categories = ["Personal"]
 tags = ["moving", "change"]
 draft = false
 title = "Moving To San Francisco"
-description = "Thoughts about the long-awaited move to the city"
+description = "Thoughts about the long awaited move to the city"
 authors = []
 socialsharing = true
 +++
