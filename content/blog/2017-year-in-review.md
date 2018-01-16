@@ -9,7 +9,6 @@ authors = []
 socialsharing = true
 bannerimage = "/images/2017-year-in-review/open_mic_sitting_1.jpg"
 bannerimagecaption = "South Asian Open Mic at The Great Northern, San Francisco in November 2017"
-metaimage = "images/2017-year-in-review/open_mic_sitting_1.jpg"
 +++
 
 I started posting these yearly review posts two years ago, and each time I've failed
