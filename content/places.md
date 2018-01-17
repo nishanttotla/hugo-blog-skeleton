@@ -9,7 +9,7 @@ title = "Places I've been"
 
 I was born in India and spent nearly 16 years of my life in one city, with a little occasional travel. I then spent 6 years away from home. In 2012, I moved to Berkeley, California where I lived for five years until moving to San Francisco in 2017.
 
-In 2014, I made the commitment to self that I'd travel to at least one new country each year. So far I've managed that, but here's a list of all the countries (non-transit) I've visited so far.
+In 2014, I made the commitment to self that I'd travel to at least one new country each year. Barring 2017, I've managed that so far. Here's a list of all the countries (non-transit) I've visited:
 
 1. Mauritius (2004)
 2. United Arab Emirates (2004, 2005)
@@ -29,12 +29,6 @@ In 2014, I made the commitment to self that I'd travel to at least one new count
 16. Mexico (2014)
 17. United Kingdom (2015, 2016)
 18. Japan (2016)
-
-### Cities Visited
-
-I also like to keep track of all cities that I've been to on a map. This of course doesn't include transit, but only actual cities that I set foot in.
-
-<iframe src="https://www.google.com/maps/d/embed?mid=zfazlR6PpHXg.kTj-M9kdK9Kg" width="100%" height="480"></iframe>
 
 [^1]: I spent the entire summer of 2010 and 2011 living in Klosterneuburg near Vienna.
 [^2]: I briefly visited in March 2012, before moving in August of the same year.
