@@ -1,4 +1,4 @@
-baseurl = "https://nishanttotla.com/"
+baseurl = "http://nishanttotla.com/"
 languageCode = "en-us"
 title = "nRT"
 pygmentsUseClasses = true
@@ -20,5 +20,5 @@ pluralizelisttitles = false
   authorLinkedin = "nishanttotla"
   authorGoogleplus = "nishanttotla"
   authorInstagram = "nishanttotla"
-  coverImage = "https://nishanttotla.com/images/nishant_nola.jpg"
+  coverImage = "http://nishanttotla.com/images/nishant_nola.jpg"
   authorSignature = "nRT"
