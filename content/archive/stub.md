@@ -1,14 +1,11 @@
 +++
-authors = []
-categories = []
-date = "2050-05-31T13:32:52-07:00"
-description = ""
-draft = false
-socialsharing = false
-tags = []
+nopaging = true
+nodate = false
+nocomment = true
+date = 2018-04-02T23:57:44-07:00
 title = "Stub"
-
 +++
+
 
 This page is a stub. It's part of a hack meant to publish an archive page using Hugo. The
 archive page contains a list of all the pages across all sections of the website. To see
