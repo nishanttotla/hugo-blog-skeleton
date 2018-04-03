@@ -10,8 +10,7 @@ echo -e "\033[0;32mRemove entry for submodule from git config file. Opening file
 sleep 2
 vim .git/config
 rm -rf public
-git add . && git commit -m "cleaning index"
-git submodule add git@github.com:nishanttotla/nishanttotla.github.com.git public
-./release.sh
-git add .gitmodule
-git commit -m "Added the submodule back"
+git add . && git commit -s -m "Cleaning index"
+git submodule add git@github.com:nishanttotla/nishanttotla.github.io.git public
+git add .gitmodules
+git commit -m "Adding the submodule back"
