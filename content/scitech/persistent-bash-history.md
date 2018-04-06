@@ -18,7 +18,7 @@ I found a great solution on [Eli Bendersky's website](https://eli.thegreenplace.
 preferences. You can look at Eli's solution for some useful aliases or trimming of the history,
 but I chose not to do that for now. Here's my solution.
 
-In the `.bashrc` file, put the following code:
+In your `.bashrc` file[^1], put the following code:
 
 ```
 HISTTIMEFORMAT="%d/%m/%y %T "
@@ -70,3 +70,5 @@ to doing this that I can imagine is that you're now running a few other commands
 disk each time you run a command on your terminal. I don't think this is really a huge deal
 for modern machines, and if I really cared about performance, I'd be writing a separate bash
 script anyway.
+
+[^1]: The `.bashrc` file is typically located in the home directory and runs each time you open a new terminal instance.
