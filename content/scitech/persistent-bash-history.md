@@ -61,6 +61,19 @@ The important line, in case you want to make any changes, is
 echo $date_part "|" "$command_part" "|" "$(pwd)" >> ~/.persistent_history
 ```
 
+Here's a sample of what that looks like
+
+```
+06/04/18 10:47:18 | ./release.sh  | /Users/nishant/Git Repositories/hugo-blog-skeleton
+06/04/18 10:47:27 | git status | /Users/nishant/Git Repositories/hugo-blog-skeleton
+06/04/18 10:47:29 | git add . | /Users/nishant/Git Repositories/hugo-blog-skeleton
+06/04/18 10:47:39 | git commit -s -m "Updating submodule" | /Users/nishant/Git Repositories/hugo-blog-skeleton
+06/04/18 10:49:07 | git diff | /Users/nishant/Git Repositories/hugo-blog-skeleton
+06/04/18 10:50:32 | git diff | /Users/nishant/Git Repositories/hugo-blog-skeleton
+06/04/18 10:50:34 | git status | /Users/nishant/Git Repositories/hugo-blog-skeleton
+06/04/18 10:50:36 | git add . | /Users/nishant/Git Repositories/hugo-blog-skeleton
+```
+
 I chose to record the working directory (`pwd`) because it provides meaningful context. Other than
 that, there's not a whole lot going on here.
 
