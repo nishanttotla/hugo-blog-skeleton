@@ -31,11 +31,12 @@ In 2014, I made the commitment to self that I'd travel to at least one new count
 18. 🇯🇵Japan (2016)
 19. 🇪🇹Ethiopia (2018)
 20. 🇿🇲Zambia (2018)
+21. 🇿🇼Zimbabwe (2018)
 <font color="blue">
-21. 🇭🇰Hong Kong (2018)
+22. 🇭🇰Hong Kong (2018)
 </font>
 <font color="blue">
-22. 🇹🇷Turkey (2018)
+23. 🇹🇷Turkey (2018)
 </font>
 
 [^1]: I spent the entire summer of 2010 and 2011 living in Klosterneuburg near Vienna.
