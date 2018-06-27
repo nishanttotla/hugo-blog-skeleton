@@ -29,12 +29,8 @@ In 2014, I made the commitment to self that I'd travel to at least one new count
 16. 🇲🇽Mexico (2014)
 17. 🇬🇧United Kingdom (2015, 2016)
 18. 🇯🇵Japan (2016)
-<font color="blue">
 19. 🇪🇹Ethiopia (2018)
-</font>
-<font color="blue">
 20. 🇿🇲Zambia (2018)
-</font>
 <font color="blue">
 21. 🇭🇰Hong Kong (2018)
 </font>
