@@ -36,7 +36,7 @@ These are some of the top picks:
 - [Twin Falls Fruit Stand](https://foursquare.com/v/twin-falls-farm-stand/4ba929d1f964a52092103ae3) -- Located at the entrance to Twin Falls, it’s a fresh fruit stand. The cut pineapple was spectacular, and it was a pleasant surprise to get sugarcane juice.
 
 <figure>
-    <img data-action="zoom" src="/images/experiences/maui-fruit-stand.jpg" ></img>
+    <img data-action="zoom" class="lazy" src="/images/blurred-bg.jpg" data-src="/images/experiences/maui-fruit-stand.jpg" ></img>
     <figcaption>The Twin Falls Fruit Stand sells fresh pineapple and sugarcane juice.</figcaption>
 </figure>
 
@@ -48,14 +48,14 @@ These are some of the top picks:
 - [Hana Lava Tube](https://foursquare.com/v/hana-lava-tube/56cf4a9fcd1018c22fd1ae4c) -- We are both interested in Geology, so it was natural to stop here! It’s a very old lava tube, with some centuries old formations. It’s on private land, and you get a flashlight for a self-guided tour for $12.5. There are other lava tubes in Maui, but this one was pretty good.
 
 <figure>
-    <img data-action="zoom" src="/images/experiences/maui-lava-tube.jpg" ></img>
+    <img data-action="zoom" class="lazy" src="/images/blurred-bg.jpg" data-src="/images/experiences/maui-lava-tube.jpg" ></img>
     <figcaption>Entrance to the Hana Lava Tube.</figcaption>
 </figure>
 
 - [Waiʻanapanapa State Park](https://foursquare.com/v/wai%C4%81napanapa-state-park/4bd4d6af7b1876b06cef8986) -- Quite touristy, but very beautiful park, with a small black sand beach! The beach was closed for construction when we visited, but I still loved the place. There were many other attractions, including a blowhole that shot water up several meters high.
 
 <figure>
-    <img data-action="zoom" src="/images/experiences/maui-waianapanapa.jpg" ></img>
+    <img data-action="zoom" class="lazy" src="/images/blurred-bg.jpg" data-src="/images/experiences/maui-waianapanapa.jpg" ></img>
     <figcaption>Waiʻanapanapa State Park with a glimpse of the black sand beach on the bottom-right.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ These are some of the top picks:
 - [Wailua Falls](https://foursquare.com/v/wailua-falls/4b89e4a5f964a5206c5432e3) -- Pretty waterfall and a quick stop.
 
 <figure>
-    <img data-action="zoom" src="/images/experiences/maui-wailua-falls.jpg" style="width:70%;" ></img>
+    <img data-action="zoom" class="lazy" src="/images/blurred-bg.jpg" data-src="/images/experiences/maui-wailua-falls.jpg" style="width:70%;" ></img>
     <figcaption>Wailua Falls (one of the dozens on the road to Hana).</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ At the end of the day, we drove back to Kihei to our AirBnb. The drive to Hana a
 For me, Hawaii is as much about the stunning ridge hikes as it is about the beaches and Aloha. After getting some rest on the first night, we decided to go hiking. My impression is that Maui doesn’t have as much hiking as Oahu or Kauai, but we still managed to find a hike that had everything -- The [Waihe'e Ridge Trail](http://mauiguidebook.com/adventures/waihee-ridge-trail/) -- great views, narrow ridges, muddy mess, and elevation gain.
 
 <figure>
-    <img data-action="zoom" src="/images/experiences/maui-hike-2.jpg" style="width:70%;" ></img>
+    <img data-action="zoom" class="lazy" src="/images/blurred-bg.jpg" data-src="/images/experiences/maui-hike-2.jpg" style="width:70%;" ></img>
     <figcaption>The narrow ridge near the top of Waihe'e Ridge Trail.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ After the hike, we got a massage, which was a great way to finish a tiring day.
 One of the quintessential Maui things to do is to watch the sunrise from the summit of Mt. Haleakalā, a 10,000ft high volcano and national park. The sunrise above the clouds is really beautiful, and worth the early morning drive.
 
 <figure>
-    <img data-action="zoom" src="/images/experiences/maui-haleakala-sunrise.jpg" ></img>
+    <img data-action="zoom" class="lazy" src="/images/blurred-bg.jpg" data-src="/images/experiences/maui-haleakala-sunrise.jpg" ></img>
     <figcaption>Grand sunrise from the summit of Haleakalā.</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ While we only reached the summit about 30 minutes before sunrise, it would have 
 Later in the day, it was time to head to the beach! There are a lot of good beaches in Maui, each with something special to offer. We picked the Big Beach in Makena State Park primarily because some website rated it their #1 beach and also it was pretty close to our AirBnb. It was fun to splash in the usually strong waves, play some frisbee and spend time people-watching. The waves were very strong -- at some point I made the mistake of standing with my back to a breaking wave and trying to swim with it -- it toppled me and literally flipped me over. I think I was lucky to not get seriously hurt.
 
 <figure>
-    <img data-action="zoom" src="/images/experiences/maui-big-beach.jpg" ></img>
+    <img data-action="zoom" class="lazy" src="/images/blurred-bg.jpg" data-src="/images/experiences/maui-big-beach.jpg" ></img>
     <figcaption>Big Beach in Makena State Park.</figcaption>
 </figure>
 

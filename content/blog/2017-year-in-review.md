@@ -42,7 +42,7 @@ bombed spectacularly, I ended the year with an open-mic performance that was des
 by the organizer as the "sleeper hit of the night".
 
 <figure>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/open_mic_standing.jpg" style="width:70%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/open_mic_standing.jpg" style="width:70%;"></img>
     <figcaption>मिठास, मसाला, और अच्छा सब कुछ डाला</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ sense. I'm going to continue more of that this year now that I have bought a bet
 camera. Plus there's my [Instagram account about fire escapes](https://www.instagram.com/fireescapephotos/) that you want to follow.
 
 <figure>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/bikaner.jpg" style="width:70%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/bikaner.jpg" style="width:70%;"></img>
     <figcaption>One of my favorite photos from the year (Bikaner, Rajasthan)</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ feel breaking gender norms, than sticking around with a limited range of behavio
 I was taught growing up.
 
 <figure>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/times_square.jpg" style="width:50%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/times_square.jpg" style="width:50%;"></img>
     <figcaption>Red hair, Times Square</figcaption>
 </figure>
 
@@ -112,12 +112,12 @@ Among travels that stood out in the year:
   - Tirupati, Andhra Pradesh (December) to visit some temples with family.
 
 <figure>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/nola_strangers.jpg" style="width:80%;"></img>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/bar_harbor.jpg" style="width:40%;"></img>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/chicago.jpg" style="width:40%;"></img>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/shasta.jpg" style="width:40%;"></img>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/arches_nps.jpg" style="width:40%;"></img>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/mumbai_bylanes.jpg" style="width:80%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/nola_strangers.jpg" style="width:80%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/bar_harbor.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/chicago.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/shasta.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/arches_nps.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/mumbai_bylanes.jpg" style="width:80%;"></img>
     <figcaption>Selected travel photos; clockwise from top: Random shot with some strangers in NOLA, Chicago skyline seen from Lake Michigan, Delicate Arch at Arches National Park, bylanes in Colaba (Mumbai), early morning view of Mt. Shasta from the Coastal Starlight train, cute restaurant in Bar Harbor (Maine)</figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ never really done before. I enjoyed that a lot, and it strengthened my convictio
 that I'm a city person through and through.
 
 <figure>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/dyke_march_sf.jpg" style="width:80%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/dyke_march_sf.jpg" style="width:80%;"></img>
     <figcaption>Dyke March in San Francisco (June)</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ that I'm a city person through and through.
 Austin, Texas. Other than that, it was business as usual, even though I've been thinking hard and seriously about longer term professional goals.
 
 <figure>
-    <img class="lazy" data-action="zoom" data-src="/images/2017-year-in-review/dockercon_talk.jpg" style="width:80%;"></img>
+    <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/2017-year-in-review/dockercon_talk.jpg" style="width:80%;"></img>
     <figcaption>Speaking at DockerCon 2017 in Austin, Texas</figcaption>
 </figure>
 
