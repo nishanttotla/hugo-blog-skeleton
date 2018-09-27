@@ -7,16 +7,17 @@ var gulp      = require('gulp'),
 
 var fileOrder = [
     'static/fontello/css/fontello.css',
-    'static/css/normalize.css', 
-    'static/css/skeleton.css', 
-    'static/css/main.css', 
+    'static/css/normalize.css',
+    'static/css/skeleton.css',
+    'static/css/main.css',
     'static/css/highlight.css',
     'static/css/zoom.css'
 ];
 
 var jsFileOrder = [
     'static/js/transition.js',
-    'static/js/zoom.min.js'
+    'static/js/zoom.min.js',
+    'static/js/lazyload.js'
 ];
 
 gulp.task('default', function() {

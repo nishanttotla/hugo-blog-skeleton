@@ -44,7 +44,7 @@ will be the subject of another post, but if there's a lesson to be learned, it i
 *the department is not your friend*.
 
 <figure>
-    <img data-action="zoom" src="/images/2016-year-in-review/commencement.gif" style="width:70%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/commencement.gif" style="width:70%;"></img>
     <figcaption>Commencement - Pradeep walked on the same day</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ school, and got several new opportunities and experiences along the way. For one
 I learned a lot about working on open-source projects.
 
 <figure>
-    <img data-action="zoom" src="/images/2016-year-in-review/github.png"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/github.png"></img>
     <figcaption>My GitHub profile has never looked greener</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Second, I got to [travel to multiple conferences](/blog/conference-travel-2016)
 and give talks. These were among the primary reasons I had joined Docker in the first place.
 
 <figure>
-    <img data-action="zoom" src="/images/2016-year-in-review/talk.jpg"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/talk.jpg"></img>
     <figcaption>First conference talk, at ContainerCamp 2016, London</figcaption>
 </figure>
 
@@ -102,8 +102,8 @@ I did make several trips.
 - Crater Lake National Park, Oregon (July) for a random weekend
 
 <figure>
-    <img data-action="zoom" src="/images/2016-year-in-review/colorado.jpg" style="width:40%;"></img>
-    <img data-action="zoom" src="/images/2016-year-in-review/craterlake.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/colorado.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/craterlake.jpg" style="width:40%;"></img>
     <figcaption>White snow at 12,000ft in Rocky Mountain National Park, and deep blue water at Crater Lake</figcaption>
 </figure>
 
@@ -114,10 +114,10 @@ I did make several trips.
 - Mendocino, California (October) for a relaxing weekend getaway
 
 <figure>
-    <img data-action="zoom" src="/images/2016-year-in-review/london.jpg" style="width:40%;"></img>
-    <img data-action="zoom" src="/images/2016-year-in-review/bikecamping.jpg" style="width:40%;"></img>
-    <img data-action="zoom" src="/images/2016-year-in-review/berlin.jpg" style="width:40%;"></img>
-    <img data-action="zoom" src="/images/2016-year-in-review/mendocino.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/london.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/bikecamping.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/berlin.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/mendocino.jpg" style="width:40%;"></img>
     <figcaption>London, start of the bike camping trip in SF, festival of lights at the Berliner Dom, California coastline in Mendocino</figcaption>
 </figure>
 
@@ -127,9 +127,9 @@ I did make several trips.
 - India (December), also for vacation
 
 <figure>
-    <img data-action="zoom" src="/images/2016-year-in-review/portland.jpg" style="width:40%;"></img>
-    <img data-action="zoom" src="/images/2016-year-in-review/maui.jpg" style="width:40%;"></img>
-    <img data-action="zoom" src="/images/2016-year-in-review/tokyo.jpg" style="width:80%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/portland.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/maui.jpg" style="width:40%;"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/tokyo.jpg" style="width:80%;"></img>
     <figcaption>Hipster Indian food in Portland, stunning ridges in Maui, street market in Tokyo</figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ half of the year[^3].
 - I fulfilled a long standing dream of watching Arsenal play at the Emirates stadium. During my trip to London in September, I managed to get a ticket to the Arsenal vs Southampton game and thoroughly enjoyed it. Interestingly, just the month before, I'd watched the team play MLS All-Stars during their US tour but had no idea I'd actually be traveling to London soon after!
 
 <figure>
-    <img data-action="zoom" src="/images/2016-year-in-review/emirates.jpg"></img>
+    <img class="lazy" data-action="zoom" data-src="/images/2016-year-in-review/emirates.jpg"></img>
     <figcaption>Arsenal vs Southampton at the Emirates Stadium in September</figcaption>
 </figure>
 
