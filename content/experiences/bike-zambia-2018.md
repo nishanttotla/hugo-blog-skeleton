@@ -9,6 +9,7 @@ authors = []
 socialsharing = true
 bannerimage = "/images/experiences/bikezambia/offroad-zambia.jpg"
 bannerimagecaption = "Bike Zambia riders in a file, off-road somewhere in Zambia"
+bannerimagelowres = "/images/experiences/bikezambia/offroad-zambia-lowres.jpg"
 metaimage = "images/experiences/bikezambia/offroad-zambia.jpg"
 +++
 

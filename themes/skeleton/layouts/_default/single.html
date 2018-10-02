@@ -3,7 +3,11 @@
 <body>
 {{ partial "singletop.html" . }}
   {{ if .Params.bannerimage }}
-    <img class="lazy" src="/images/blurred-bg-wide.jpg" data-src="{{ .Params.bannerimage }}" style="width:100%;" />
+    {{ if .Params.bannerimagelowres }}
+      <img class="lazy" src="{{ .Params.bannerimagelowres }}" data-src="{{ .Params.bannerimage }}" style="width:100%;" />
+    {{ else }}
+      <img class="lazy" src="/images/blurred-bg-wide.jpg" data-src="{{ .Params.bannerimage }}" style="width:100%;" />
+    {{ end }}
     <figcaption>{{ .Params.bannerimagecaption }}</figcaption>
   {{ end }}
   <div class="container">
