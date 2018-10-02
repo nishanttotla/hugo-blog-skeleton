@@ -49,7 +49,7 @@ part is uninteresting, feel free to skip to a different one. For convenience, he
 ### What is Bike Zambia About? [🔝]({{< ref "#table-of-contents" >}})
 
 <figure style="float: left; width: 35%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/nishant-bike-full.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/nishant-bike-full.JPG" style="width:100%;"></img>
   <figcaption>Me on the bike, on a cold morning in Zambia.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ money in through corporate donation matchings as well because corporations can't
 money on charitable causes.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg-wide.jpg" data-src="/images/experiences/bikezambia/bikezambia-fundraiser.png" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-wide.gif" data-src="/images/experiences/bikezambia/bikezambia-fundraiser.png" style="width:100%;"></img>
   <figcaption>I ended up raising money well over my goal, thanks to generous donors. <a href="https://www.flipcause.com/secure/fundraiser/MTk0NzA=/14757">Check out my fundraising page</a>. Total contributions across all riders crossed $200k!</figcaption>
 </figure>
 
@@ -111,7 +111,7 @@ from America end up in these parts of Africa to be sold at throwaway prices. It 
 strange but also disrupts the local economy.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/lusaka-mall.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/lusaka-mall.jpg" style="width:100%;"></img>
   <figcaption>Westernization in Lusaka.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ for risky loans that few other companies or countries would give.
 But that is a story for another time.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/chinese-infra.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/chinese-infra.jpg" style="width:100%;"></img>
   <figcaption>One of the many Chinese infrastructure projects in Zambia (and all of Africa).</figcaption>
 </figure>
 
@@ -131,8 +131,8 @@ For two nights, we settled into Eureka Camp just outside the city. This is where
 with our bikes and figured out logistics.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/zebra-eureka.jpg" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/giraffe-eureka1.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/zebra-eureka.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/giraffe-eureka1.jpg" style="width:40%;"></img>
   <figcaption>Eureka camp was teeming with exciting wildlife! Zebras, Giraffes, Waterbuks, Monkeys, and several other animals frequently walked around our tents.</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ On our first full day in Lusaka, we visited two of our beneficiaries doing remar
 #### World Bicycle Relief
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/wbr.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/wbr.jpg" style="width:100%;"></img>
   <figcaption>Buffalo Bicycles is the company backing World Bicycle Relief. These bikes are quite robust and built to survive difficult terrain on and off road.</figcaption>
 </figure>
 
@@ -159,12 +159,12 @@ efforts, their bicycles also help community health volunteers reach more patient
 central to many Zambians' daily lives.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/zambia-bike-life.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/zambia-bike-life.jpg" style="width:100%;"></img>
   <figcaption>Bicycles are a big part of many Zambians' lives, and Buffalo Bicycles are the perfect design to withstand a variety of use cases.</figcaption>
 </figure>
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/assembling-bikes.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/assembling-bikes.jpg" style="width:100%;"></img>
   <figcaption>Part of our visit to World Bicycle Relief involved assembling a Buffalo Bike each! I'd never assembled a bike from base parts before so this was a nice (and greasy) learning experience.</figcaption>
 </figure>
 
@@ -173,14 +173,14 @@ central to many Zambians' daily lives.
 [ZHECT](http://www.zhect.org.zm/) works on AIDS awareness and prevention. They are trying to implement the 90/90/90 paradigm which is globally recognized -- it means that at least 90% of the population needs to be tested for HIV and know their status. Of those that test positive, at least 90% need to have started treatment. Of those who've started treatment, at least 90% should be sticking to it over a period of time. This is the recommended approach for controlling the epidemic spread, which is an issue in Zambia (1 in 8 adults is HIV positive).
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/chilufya.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/chilufya.jpg" style="width:100%;"></img>
   <figcaption>Chilufya Mwaba-Phiri (seated above), founder and CEO of ZHECT spoke to us about her vision and roadblocks to tackle. She also informed us about about programs like DREAMS (Determined, Resilient, Empowerd, AIDS-free, Mentored and Safe) and CSE (Comprehensive Sex Ed) that work at the school level, particularly focusing on adolescent girls and young women. What I loved about her was her precise articulation, grasp of nuances, and willingness to confront when necessary.</figcaption>
 </figure>
 
 ZHECT focuses on high-risk target groups such as men who have sex with men, sex workers, transgender individuals, who have a much higher rate of infection due to stigma and discrimination that makes it harder to access testing and treatment. They also focus on adolescents because there aren't too many other programs that do so. A lot of the effort is directed towards community support as well as providing free treatment.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/nurse-joyce.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/nurse-joyce.jpg" style="width:100%;"></img>
   <figcaption>Brian Moonga (left), Zambia country director for World Bicycle Relief welcomes Nurse Joyce who works with ZHECT at the grassroots level.</figcaption>
 </figure>
 
@@ -205,7 +205,7 @@ us from conducting a small dance party around the bonfire just before things got
 ### Day 1 (June 30): Kafue to Mazabuka [🔝]({{< ref "#table-of-contents" >}})
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/day-1-map.png" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/day-1-map.png" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -219,7 +219,7 @@ physical restrictions, but the challenge in this ride was really going to come f
 terrain and perhaps weather changes.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/curt-bike.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/curt-bike.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -236,9 +236,9 @@ to me, because by the end of day 1, I was ready to pass out and unsure how I wou
 strength to get up the next morning.
 
 <figure style="float: left; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/zambia-family.jpg" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/school-shenanigans.JPG" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/poser-girl.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/zambia-family.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/school-shenanigans.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/poser-girl.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ surprised and amused to learn we were doing this somewhat recreational ride, and
 in my opinion.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/moorings-turf-club-tents.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/moorings-turf-club-tents.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -298,7 +298,7 @@ At the end of the day, I was just glad to have a hot shower, some warm food, and
 ### Day 2 (July 1): Mazabuka to Monze [🔝]({{< ref "#table-of-contents" >}})
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/day-2-map.png" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/day-2-map.png" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -340,9 +340,9 @@ On the sandy sections, none of that because one wrong move and down you go, so t
 time to second guess or think. Plus sandy descents provide quite the adrenaline rush.
 
 <figure style="float: right; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/lookers-on.jpg" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/hair-saloon.jpg" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/family-bike.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/lookers-on.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/hair-saloon.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/family-bike.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -359,14 +359,14 @@ a wide smile). He told me about growing up in Zambia and his family back home, a
 things about organizing the ride itself.
 
 <figure style="margin-left: -25%; margin-right: -25%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/local-riders.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/local-riders.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
 ### Day 3 (July 2): Monze to Choma [🔝]({{< ref "#table-of-contents" >}})
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/day-3-map.png" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/day-3-map.png" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -390,8 +390,8 @@ souvenirs, and drank Fanta (I don't normally drink soda, but this day started my
 with Fanta and Sprite which lasted the rest of the trip).
 
 <figure style="float: right; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/vegetable-market.jpg" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/say-hi.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/vegetable-market.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/say-hi.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -423,7 +423,7 @@ nickname too -- "Nisand". Whatever you say, the human body is capable of miracle
 even if it frustrates often.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/masuku-night-sky.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/masuku-night-sky.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -439,7 +439,7 @@ our clothes, and also explore the town, something I hadn't had a chance to do un
 in Zambia.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/birdwatching.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/birdwatching.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -450,7 +450,7 @@ Impalas and other wildlife, but overall I found my impressions of birding and bi
 changing.
 
 <figure style="margin-left: -20%; margin-right: -20%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg-wide.jpg" data-src="/images/experiences/bikezambia/choma.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-wide.gif" data-src="/images/experiences/bikezambia/choma.jpg" style="width:100%;"></img>
   <figcaption>Commercial street in Choma.</figcaption>
 </figure>
 
@@ -467,7 +467,7 @@ Choma! Safe to say that after this prank, he would not be trusted with travel re
 ### Day 5 (July 4): Batoka to Lake Kariba [🔝]({{< ref "#table-of-contents" >}})
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/day-5-map.png" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/day-5-map.png" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -489,7 +489,7 @@ to join them, which I did on a couple of occasions. It's no surprise, but making
 much easier when you're in front and not under pressure to catch up with the rest of the group.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/mryoram.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/mryoram.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -505,7 +505,7 @@ this post.
 ### Day 6 (July 5): Choma to Kalomo [🔝]({{< ref "#table-of-contents" >}})
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/day-6-map.png" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/day-6-map.png" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -515,8 +515,8 @@ its reputation. Soon we got off the road into a sandy section that I felt pretty
 overall.
 
 <figure style="float: left; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/village-kids.jpg" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/mr-dennis.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/village-kids.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/mr-dennis.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -539,7 +539,7 @@ In the evening, we got a nice little reception as we entered the town of Kalomo.
 a little accomplished and really excited by the fact that we weren't going to sleep in a tent!
 
 <figure style="float: right; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/damaged-suitcase.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/damaged-suitcase.JPG" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -555,7 +555,7 @@ though the bag now has permanent scars. Makes for a nice story though.
 ### Day 7 (July 6): End of Ride at Victoria Falls [🔝]({{< ref "#table-of-contents" >}})
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/day-7-map.png" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/day-7-map.png" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -563,9 +563,9 @@ At the start of the last day, my confidence was high and I was looking forward t
 ride strongly. We got a transfer out of Kalomo to put us onto the highway to Livingstone.
 
 <figure style="float: left; width: 35%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/ready-for-dance.JPG" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/doing-the-dance.JPG" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/dreams-volunteers.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/ready-for-dance.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/doing-the-dance.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/dreams-volunteers.jpg" style="width:100%;"></img>
   <figcaption>Above and middle: My getting ready to dance, and then trying to do it. Bottom: With Malenga and Luiz, employees of DREAMS. They're both in their early 20s.</figcaption>
 </figure>
 
@@ -591,12 +591,12 @@ falls downstream.
 
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/into-livingstone.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/into-livingstone.JPG" style="width:100%;"></img>
   <figcaption>Biking into Livingstone.</figcaption>
 </figure>
 
 <figure style="float: right; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/elephants.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/elephants.JPG" style="width:100%;"></img>
   <figcaption>Elephant herd on the roadside, just outside Livingstone.</figcaption>
 </figure>
 
@@ -611,10 +611,10 @@ As the fact sunk in, we indulged in a regular tradition -- the Victoria Falls br
 bungee jumping spot -- so many people try it after the ride.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/vic-falls-1.jpg" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/vic-falls-2.jpg" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/vic-falls-3.jpg" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/vic-falls-4.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/vic-falls-1.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/vic-falls-2.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/vic-falls-3.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/vic-falls-4.jpg" style="width:40%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -623,7 +623,7 @@ I think I no longer have the youthful daredevil attitude, but then on the flip s
 experienced the fear and nervousness, which is what you pay for anyway right?
 
 <figure style="margin-left: -50%; margin-right: -50%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/vic-falls-bridge.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/vic-falls-bridge.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -631,8 +631,8 @@ I did not only the bungee jump but also a swing across the gorge. Honestly, the 
 as my face in one of the photos will amply demonstrate.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/bungee.JPG" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/swing.JPG" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/bungee.JPG" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/swing.JPG" style="width:40%;"></img>
   <figcaption>Bungee and Swing. You can see my scared face in the second photos. You have to meet me in person to request to see videos of these.</figcaption>
 </figure>
 
@@ -648,24 +648,24 @@ of activities to go. The hard work though, was done!
 ### Day 8 (July 7): Beneficiary Visit and Farewell [🔝]({{< ref "#table-of-contents" >}})
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/grassroots-team.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/grassroots-team.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
 Grassroots Soccer is a cool organization that leverages the wild popularity of soccer in Zambia to educate and protect kids from AIDS. Typically, kids are trained in groups to prepare them for regular tournaments. Coaches are certified health educators who along with training also educate kids and encourage them to get tested, because knowing your HIV status is the first step towards protecting yourself and others. For those who do test positive, there are ways to access free treatment, for which also Grassroots Soccer helps. These kids in the picture above are just about to play as a team in the tournament that we visited on our final day in Zambia. It was an incredible party atmosphere with a lot of local participation. Grassroots Soccer trains both boys and girls. From talking to the organizers, we learned that being engaged in training helps kids stay away from drugs or risky sexual decisions, as well as makes it easier to broach the subject with them because coaches are trusted by parents.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/grassroots-player.jpg" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/grassroots-kid-running-after-drone.jpg" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/grassroots-mayur.jpg" style="width:40%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/grassroots-melissa.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/grassroots-player.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/grassroots-kid-running-after-drone.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/grassroots-mayur.jpg" style="width:40%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/grassroots-melissa.jpg" style="width:40%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
 These kids were quite good, although some teams were clearly way better than others.
 
 <figure style="float: right; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/grassroots-volunteers.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/grassroots-volunteers.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -677,7 +677,7 @@ shop for some Chitenges (traditional waist wraps typically worn by women in that
 and generally explore the colorful local market.
 
 <figure style="margin-left: -50%; margin-right: -50%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/chitenge.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/chitenge.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -686,7 +686,7 @@ and goodbyes said. It had been quite an adventure, but for now, this was my last
 The next couple of days I would travel to Zimbabwe before heading home to India.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/zambezi-cruise.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/zambezi-cruise.jpg" style="width:100%;"></img>
   <figcaption>My last sunset in Zambia, during the cruise on the upper Zambezi.</figcaption>
 </figure>
 
@@ -695,29 +695,29 @@ The next couple of days I would travel to Zimbabwe before heading home to India.
 Some of the poverty really felt painful and helpless.
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/crew.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/crew.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/claire.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/claire.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
 <figure style="float: right; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/dave.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/dave.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
 <figure>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/poser.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/poser.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
 <figure style="float: left; width: 45%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/gloria.jpg" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/khabuki.jpg" style="width:100%;"></img>
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/sassy-ladies.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/gloria.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/khabuki.jpg" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/sassy-ladies.jpg" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
@@ -731,7 +731,7 @@ TALK ABOUT SHARING FOOD (Day 6)
 What about begging? What about villagers standing there? Share food?
 
 <figure style="margin-left: -50%; margin-right: -50%;">
-  <img class="lazy" data-action="zoom" src="/images/blurred-bg.jpg" data-src="/images/experiences/bikezambia/connection.JPG" style="width:100%;"></img>
+  <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/connection.JPG" style="width:100%;"></img>
   <figcaption>Sample caption.</figcaption>
 </figure>
 
