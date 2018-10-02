@@ -2,7 +2,7 @@
 date = 2018-07-25T11:25:26+05:30
 categories = []
 tags = ["travel", "africa", "zambia"]
-draft = false
+draft = true
 title = "Bike Zambia 2018"
 description = "A summary of my experiences biking 500km in Zambia"
 authors = []
@@ -691,9 +691,14 @@ The next couple of days I would travel to Zimbabwe before heading home to India.
   <figcaption>My last sunset in Zambia, during the cruise on the upper Zambezi.</figcaption>
 </figure>
 
-### People and Memories [🔝]({{< ref "#table-of-contents" >}})
+### Thoughts and Memories [🔝]({{< ref "#table-of-contents" >}})
 
-Some of the poverty really felt painful and helpless.
+Like I've said before, the long bike rides were not what I cared about all that much on this trip.
+My biggest hope was to meet several like-minded people and get to know them well, as well as
+understand a part of the world I'd never been to before. I'd say I got a lot of that and much more. I consider my personal life to be in a heavily transient phase right now (in a
+good way), and so every person whom I connect with has a strong and lasting impact. When these
+connections happen in the context of a long shared experience, they tend to be even more
+pronounced.
 
 <figure>
   <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/crew.jpg" style="width:100%;"></img>
@@ -707,8 +712,19 @@ Some of the poverty really felt painful and helpless.
 
 <figure style="float: right; width: 45%;">
   <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/dave.jpg" style="width:100%;"></img>
-  <figcaption>Sample caption.</figcaption>
+  <figcaption>My tentmate Dave, with whom I had the shared experience of figuring out how multi-day bike rides work, because this was a first time for both of us. We also shared life stories along the way.</figcaption>
 </figure>
+
+I quite enjoy meeting people from other walks of life, especially those whose life
+experience has been vastly different from mine. Even more so when they're forthcoming about
+sharing it as well as genuinely interested in hearing my stories. My regular day job has
+relatively few opportunities for doing that, so it feels like the time I spent in Zambia
+created memories that I will continue to think about for a long period of time. Writing about
+them here is an attempt to save them beyond my memory's reliability.
+
+I should point out once again though that not everything was rainbows and sunshine. There were
+several questions that made me quite uncomfortable during the trip, and I don't know if I've
+resolved them satisfactorily yet. Still, all of them have been invaluable for learning.
 
 <figure>
   <img class="lazy" data-action="zoom" src="/images/image-loading-gif-4by3.gif" data-src="/images/experiences/bikezambia/poser.jpg" style="width:100%;"></img>
@@ -724,9 +740,30 @@ Some of the poverty really felt painful and helpless.
 
 #### Ethical Considerations While Taking Photos
 
-There have been many photos so far of people in Zambia, and I've tried hard to be ethically conscious while clicking these. For starters, photos of all individuals have been taken with explicit verbal or gestural consent. Even so, I've also tried to make efforts to talk to them and know their stories. There's a fine line between clicking photos of locals for exhibitionism versus being genuinely interested in their lives and taking photos for remembering memories. It's hard to always get it right, but my focus has always been to act in Zambia like I'd act anywhere else in the world when showing consideration for the people and culture of the land. I am happy that several people shared my concerns and were open about this, but I was also disappointed by the more heavy handed attitudes of some other people. While it is undeniable that the money raised by the ride will do a lot of good, there are several questions I have been mulling over since. While there was no way I could have formed connections with so many Zambians had I not done this ride, it is also true that perhaps we were shielded from a lot of dark truths because of our support team. Again, these are debatable topics and I'm going to explore them further when I write that blog post (or if you want to chat in person).
+There have been many photos so far of people in Zambia, and I've tried hard to be conscious while
+clicking these. For starters, photos of all individuals have been taken with explicit verbal or
+gestural consent. Even so, I've also attempted to make efforts to talk to them and know their stories.
+There's a fine line between clicking photos of locals for exhibitionism versus being genuinely interested in their lives and what they have to say. It's hard to always get it right, but my focus has always been to act in Zambia like I'd act anywhere else in the world when showing consideration for the people and culture of the land. I am happy that several people shared my concerns and were open about this, but I was also disappointed by the more heavy handed attitudes of some other people in our group. While it is undeniable that the money raised by the ride will do a lot of good, there are several questions I have been mulling over since. While there was no way I could have formed connections with so many Zambians had I not done this ride, it is also true that perhaps we were shielded from a lot of dark truths because of our support team. These are difficult topics and I'm going to keep exploring them in the future. Hit me up if you'd like to have a conversation.
 
-ALSO MENTION WHY THIS RIDE MAKES SENSE WRT FUNDRAISING. (Day 5)
+#### Why Do This Bike Ride At All?
+
+It is true that the funds raised are going to support many motivated Zambians who want to
+make a difference in their country, and have effective ways of addressing specific problems. All
+that is great. But let's talk about a question that might be on many people's minds (certainly was
+on mine) -- if the money was raised before the ride, what is the point of doing the ride? Any
+organization raising money with the backdrop of an event like Bike Zambia or more commonly a
+marathon or some other activity, will use some amount of those funds to organize logistics for
+the said activity. You want that amount to be as small as possible, and scale often helps in
+making the fraction of funds dedicated to logistics lower. But the fundamental question remains --
+why not forgo the activity altogether and make that fraction zero? So far, the only answer that
+has made sense is that when there is an end goal, both fundraisers and contributors are more
+motivated, and even with a fraction going to logistics, the absolute amount that goes to charity
+is more when there is an end goal, than when there isn't one. I believe this anecdotally but I
+haven't tried to find more convincing evidence yet. Let me be very clear, I support the causes
+the beneficiary organizations are supporting and
+
+but what about feel-good white people invading the private lives of Zambian villagers? I feel guilty about it too. Oh and who shares profits really? Claire or Zambians? That it employs people isn't
+enough of a motivator.
 
 TALK ABOUT SHARING FOOD (Day 6)
 What about begging? What about villagers standing there? Share food?
@@ -738,7 +775,7 @@ What about begging? What about villagers standing there? Share food?
 
 <hr>
 
-READ THE EXTRACT BELOW.
+GO OVER THE BEAR NOTES FOR ANY MISSED ITEMS
 
 THERE IS ALSO SCOPE FOR VIDEOS
 
@@ -746,12 +783,11 @@ LEARNING TO APPRECIATE DISCOMFORT
 
 NEED A GOOD DOSE OF HEAVY EDITING
 
+https://www.nationalgeographic.com/travel/intelligent-travel/2015/02/04/unpacking-voluntourism-five-myths/
+
+and @nowhitesaviors
+
 <hr>
-
-Text from older writeup
-
-The Biking
-Zambia is not an easy country to ride in — the experience varies a lot. There have been tough unpleasant parts as well as extremely joyful ones. I’ve had some bad luck with unexpected knee pain during the ride (due mostly to muscle tightness) but with sufficient breaks, pain-killers, and lots of help from our amazing crew, I’ve managed.  There are still three days of riding left after today to get to Victoria Falls. For me personally, riding on challenging long off-road sections on a mountain bike has been a source of great thrill and learning. We’ve also biked on sand, which honestly often feels like surfing (like surfing, I fell a couple of times). Locals in the villages we pass through have been extremely welcoming and  cheerful — kids see us and exuberantly shout, people share their life stories, make offers to buy our bikes, take us to their huts to meet their family, enjoy clicking photos together, sometimes add us on Facebook. It’s also been good getting to know other riders and learning their stories.
 
 [^1]: Brian Moonga told us this true story of his pastor pushing abstinence as the only way to fight infection in one of the church ceremonies. It's been well known for a while that abstinence-only education is insufficient, but the pastor wasn't willing to listen. Then a 5 year old boy got up and asked, "but what if only teaching abstinence doesn't work?". The pastor said "of course it always works", to which the boy replied "even Michelin tires are advertized to not burst, but they still burst. Then what?". The pastor didn't have a response. (This story is paraphrased from my memory, which is based on Brian's memory, so this is only a gist).
 [^2]: In case you didn't know, Ibuprofen is an anti-inflammatory drug, very popular in the US.
