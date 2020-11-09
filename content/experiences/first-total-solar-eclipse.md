@@ -2,7 +2,7 @@
 date = 2017-08-22T14:10:49-07:00
 categories = []
 tags = ["eclipse", "solareclipse", "travel"]
-draft = false
+draft = true
 title = "First Total Solar Eclipse (August 2017)"
 description = "Experiencing totality for the first time in Independence, Oregon"
 authors = []

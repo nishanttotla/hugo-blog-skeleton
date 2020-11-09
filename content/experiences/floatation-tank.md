@@ -2,7 +2,7 @@
 date = 2017-07-09T20:06:09-07:00
 categories = []
 tags = ["floatation"]
-draft = false
+draft = true
 title = "Inside a Floatation Tank"
 description = "My first experience in a floatation tank"
 authors = []

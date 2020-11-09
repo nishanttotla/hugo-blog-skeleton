@@ -2,7 +2,7 @@
 date = 2016-11-29T13:46:59-07:00
 categories = []
 tags = ["travel"]
-draft = false
+draft = true
 title = "Maui (November 2016)"
 description = "Thanksgiving trip to Maui, Hawaii"
 authors = []
