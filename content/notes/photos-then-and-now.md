@@ -2,7 +2,7 @@
 date = 2017-07-07T13:30:23-07:00
 categories = []
 tags = ["photography"]
-draft = false
+draft = true
 title = "Photos Then and Now"
 description = "Times have changed"
 authors = []

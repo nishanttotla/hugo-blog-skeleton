@@ -2,7 +2,7 @@
 date = 2017-07-31T23:23:31-07:00
 categories = []
 tags = []
-draft = false
+draft = true
 title = "Turmoil"
 description = "A Tetractys poem"
 authors = []
