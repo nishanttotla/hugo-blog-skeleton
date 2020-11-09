@@ -2,7 +2,7 @@
 date = 2017-08-29T14:27:43-07:00
 categories = ["Personal"]
 tags = ["moving", "change"]
-draft = false
+draft = true
 title = "Moving To San Francisco"
 description = "Thoughts about the long awaited move to the city"
 authors = []

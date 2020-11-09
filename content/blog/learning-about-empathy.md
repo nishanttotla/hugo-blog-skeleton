@@ -2,7 +2,7 @@
 categories = ["Uncategorized"]
 date = "2015-10-28T15:46:09-08:00"
 description = "Thoughts on how to empathize with people"
-draft = false
+draft = true
 socialsharing = true
 tags = ["empathy", "thoughts"]
 title = "Learning about Empathy"

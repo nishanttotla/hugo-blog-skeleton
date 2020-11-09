@@ -2,7 +2,7 @@
 date = 2018-01-17T13:37:44-08:00
 categories = ["Uncategorized"]
 tags = ["metoo", "sexuality", "culture"]
-draft = false
+draft = true
 title = "Let's Talk About Aziz Ansari"
 description = "Trying to put a controversial topic into perspective"
 authors = []

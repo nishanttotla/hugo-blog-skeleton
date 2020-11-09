@@ -2,7 +2,7 @@
 categories = ["Uncategorized"]
 date = "2015-10-19T15:50:52-08:00"
 description = "On giving podcasts a fresh try"
-draft = false
+draft = true
 socialsharing = true
 tags = ["podcasts", "learning"]
 title = "Rediscovering Podcasts"

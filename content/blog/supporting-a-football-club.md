@@ -2,7 +2,7 @@
 categories = ["Uncategorized"]
 date = "2015-10-26T19:10:35-08:00"
 description = "What supporting Arsenal Football Club means to me"
-draft = false
+draft = true
 socialsharing = true
 tags = ["arsenal", "football"]
 title = "Supporting a Football Club"

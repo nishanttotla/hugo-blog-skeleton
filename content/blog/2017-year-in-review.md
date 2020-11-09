@@ -2,7 +2,7 @@
 date = 2017-12-31T18:43:39-08:00
 categories = ["Personal"]
 tags = ["life"]
-draft = false
+draft = true
 title = "2017 Year in Review"
 description = "A summary of the year gone by"
 authors = []

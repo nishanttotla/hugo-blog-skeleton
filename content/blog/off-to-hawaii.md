@@ -2,7 +2,7 @@
 categories = ["Personal", "Travel"]
 date = "2015-12-24T15:39:26-08:00"
 description = "Taking a vacation after a tough year"
-draft = false
+draft = true
 socialsharing = true
 tags = ["hawaii", "holidays"]
 aliases = ["/blog/2015/12/24/off-to-hawaii/"]

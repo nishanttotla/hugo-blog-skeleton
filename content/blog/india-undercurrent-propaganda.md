@@ -2,7 +2,7 @@
 categories = ["Uncategorized"]
 date = "2015-11-06T16:01:47-08:00"
 description = "Looking at the recent rise of ridiculous propaganda in India"
-draft = false
+draft = true
 socialsharing = true
 tags = ["india", "politics", "social media"]
 title = "India's Undercurrent of Propaganda"
